@@ -14,7 +14,7 @@ export const getStaticProps = async () => {
 export default function Home({ slugs }) {
   return (
     <div>
-      <h1>Recent Posts</h1>
+      <h1>Hi, I'm Allan Kimutai</h1>
 
       {slugs.map((slug) => {
         return (
