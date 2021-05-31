@@ -8,7 +8,8 @@ const Navbar = () => {
         <Link href="/">
           <a className="logo">
             {/* <Image src="/kimutai.png" width="80" height="60" /> */}
-            KIMUTAI
+            {/* <Image src="/images/growth.png" width="60" height="40" /> */}
+            🌱
           </a>
         </Link>
 
@@ -22,6 +23,10 @@ const Navbar = () => {
 
         <Link href="/blog">
           <a>Blog</a>
+        </Link>
+
+        <Link href="https://twitter.com/kimutai_io" passHref={true}>
+          <a>Social</a>
         </Link>
       </nav>
     </>

@@ -1,7 +1,9 @@
 const Footer = () => {
   return (
     <footer>
-      <p>&#169; Kimutai 2021</p>
+      <p>
+        &#169;2021 <a href="/">KIMUTAI</a>
+      </p>
     </footer>
   );
 };

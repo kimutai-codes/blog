@@ -1,5 +1,6 @@
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
+import Head from "next/head";
 import fs from "fs";
 
 export const getStaticProps = async () => {
@@ -13,7 +14,10 @@ export const getStaticProps = async () => {
 
 export default function Home({ slugs }) {
   return (
-    <div>
+    <>
+      <Head>
+        <title>Kimutai</title>
+      </Head>
       <h1>Hi, I'm Allan Kimutai</h1>
 
       {slugs.map((slug) => {
@@ -25,6 +29,6 @@ export default function Home({ slugs }) {
           </div>
         );
       })}
-    </div>
+    </>
   );
 }
