@@ -38,37 +38,6 @@ Image {
   background-color: white;
 }
 
-/* .content { */
-/*   max-width: 60%; */
-/*   margin: 0 inherit; */
-/* } */
-
-/* @media screen and (max-width: 700px) { */
-/*   footer { */
-/*     width: auto; */
-/*   } */
-/*   body { */
-/*   } */
-/*   .content { */
-/*     max-width: 90%; */
-/*     bottom: initial; */
-/*     left: initial; */
-/*   } */
-
-/*   .blogContent { */
-/*     /1* background-color: red; *1/ */
-/*   } */
-/* } */
-/* pre { */
-/*   word-wrap: break-word; */
-/*   color: red; */
-/* } */
-
-code {
-  /* background: grey; */
-  padding: 1px 1.5px;
-  border-left: 3px solid grey;
-}
 pre code {
   background: inherit;
   border-left: 3px solid grey;
@@ -84,6 +53,7 @@ pre code {
   word-wrap: break-word;
 }
 
-/* pre code{ */
-
-/* } */
+.blogContent {
+  max-width: 90%;
+  margin: 0 auto;
+}
