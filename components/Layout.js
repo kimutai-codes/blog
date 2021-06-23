@@ -4,10 +4,20 @@ import styles from "../styles/Home.module.css";
 
 const Layout = ({ children }) => {
   return (
-    <div className="content">
+    <div className="layout">
       <Navbar />
       {children}
       <Footer />
+      <style jsx>
+        {`
+          @media screen and (min-width: 700px) {
+            .layout {
+              max-width: 65%;
+              margin: 0 auto;
+            }
+          }
+        `}
+      </style>
     </div>
   );
 };

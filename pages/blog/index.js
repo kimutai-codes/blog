@@ -1,12 +1,33 @@
-const Blog = () => {
+import Head from "next/head";
+import Link from "next/link";
+import fs from "fs";
+
+export const getStaticProps = async () => {
+  const files = fs.readdirSync("posts");
+  return {
+    props: {
+      slugs: files.map((fileName) => fileName.replace(".md", "")),
+    },
+  };
+};
+
+const Blog = ({ slugs }) => {
   return (
     <>
+      <Head>
+        <title>Blog</title>
+      </Head>
       <h1>Welcome to the blog</h1>
-      <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. At tempora ad
-        totam placeat dolor adipisci voluptatum non aut sint itaque unde vitae
-        officiis consequuntur dolorum sequi est, voluptas laborum architecto!
-      </p>
+
+      {slugs.map((slug) => {
+        return (
+          <div key={slug}>
+            <Link href={"blog/" + slug}>
+              <a>{slug}</a>
+            </Link>
+          </div>
+        );
+      })}
     </>
   );
 };

@@ -1,6 +1,11 @@
+import Head from "next/head";
+
 const About = () => {
   return (
     <>
+      <Head>
+        <title>About Kimutai</title>
+      </Head>
       <h1>Know More About Me</h1>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Blanditiis,

@@ -20,44 +20,15 @@ a {
   color: #82aaff;
 }
 
-.content {
-  max-width: 65%;
-  margin: 0 auto;
-}
-
-footer {
-  /* background-color: rgba(24, 26, 27, 0.2); */
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  /* display: block; */
-  text-align: center;
-  /* border-top: 1px solid #ddd; */
-}
-
-nav {
-  margin: 20px auto 40px auto;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
-}
-
-nav a {
-  margin-left: 12px;
-  color: #a6accd;
-  font-weight: 700;
-}
-
-nav a:hover {
-  color: #82aaff;
-  border-bottom: 1px #82aaff solid;
-}
-
-.logo {
-  margin-right: auto;
-  align-items: flex-end;
-}
+/* footer { */
+/*   /1* background-color: rgba(24, 26, 27, 0.2); *1/ */
+/*   position: relative; */
+/*   /1* left: 0; *1/ */
+/*   bottom: 0; */
+/*   width: 100%; */
+/*   text-align: center; */
+/*   /1* border-top: 1px solid #ddd; *1/ */
+/* } */
 
 h1 {
   text-align: center;
@@ -66,3 +37,53 @@ h1 {
 Image {
   background-color: white;
 }
+
+/* .content { */
+/*   max-width: 60%; */
+/*   margin: 0 inherit; */
+/* } */
+
+/* @media screen and (max-width: 700px) { */
+/*   footer { */
+/*     width: auto; */
+/*   } */
+/*   body { */
+/*   } */
+/*   .content { */
+/*     max-width: 90%; */
+/*     bottom: initial; */
+/*     left: initial; */
+/*   } */
+
+/*   .blogContent { */
+/*     /1* background-color: red; *1/ */
+/*   } */
+/* } */
+/* pre { */
+/*   word-wrap: break-word; */
+/*   color: red; */
+/* } */
+
+code {
+  /* background: grey; */
+  padding: 1px 1.5px;
+  border-left: 3px solid grey;
+}
+pre code {
+  background: inherit;
+  border-left: 3px solid grey;
+  page-break-inside: avoid;
+  font-family: monospace;
+  font-size: inherit;
+  line-height: 1.6;
+  margin-bottom: 1.6em;
+  max-width: 100%;
+  overflow: auto;
+  padding: 0.3em 1.5em;
+  display: block;
+  word-wrap: break-word;
+}
+
+/* pre code{ */
+
+/* } */

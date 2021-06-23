@@ -55,7 +55,16 @@ const Post = ({ htmlString, data }) => {
         <title>{data.title}</title>
         <meta name="description" content={data.description} />
       </Head>
-      <div dangerouslySetInnerHTML={{ __html: htmlString }}></div>
+      <div
+        dangerouslySetInnerHTML={{ __html: htmlString }}
+        className="blogContent"
+      ></div>
+
+      <style jsx>{`
+        .blogContent {
+          // word-wrap: break-word;
+        }
+      `}</style>
     </>
   );
 };

@@ -29,6 +29,31 @@ const Navbar = () => {
           <a>Social</a>
         </Link>
       </nav>
+      <style jsx>
+        {`
+          nav {
+            margin: 20px auto 40px auto;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+          }
+
+          nav a {
+            margin-left: 12px;
+            color: #a6accd;
+            font-weight: 700;
+          }
+
+          nav a:hover {
+            color: #82aaff;
+            border-bottom: 1px #82aaff solid;
+          }
+          .logo {
+            margin-right: auto;
+            align-items: flex-end;
+          }
+        `}
+      </style>
     </>
   );
 };
