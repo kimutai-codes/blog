@@ -78,12 +78,14 @@ pre code {
 .navbar-links ul {
   list-style-type: none;
 }
+
 @media (max-width: 700px) {
   .toggle-button {
     display: flex;
   }
   .navbar-links {
     width: 100%;
+    display: none;
   }
   nav {
     flex-direction: column;
@@ -96,5 +98,8 @@ pre code {
   }
   .navbar-links li {
     text-align: center;
+  }
+  .navbar-links:active {
+    display: flex;
   }
 }

@@ -48,7 +48,7 @@ const Navbar = () => {
           nav {
             margin: 20px auto 40px auto;
             display: flex;
-            flex-direction: row;
+            // flex-direction: row;
             // justify-content: space-between;
             // // align-items: flex-end;
           }
