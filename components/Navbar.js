@@ -4,41 +4,62 @@ import styles from "../styles/Home.module.css";
 const Navbar = () => {
   return (
     <>
-      <nav>
-        <Link href="/">
-          <a className="logo">
-            {/* <Image src="/kimutai.png" width="80" height="60" /> */}
-            {/* <Image src="/images/growth.png" width="60" height="40" /> */}
-            🌱
-          </a>
-        </Link>
+      <nav className="navbar">
+        <div className="logo">
+          <Link href="/">
+            <a>🌱</a>
+          </Link>
+        </div>
+        <div className="toggle-button">
+          <span className="bar"></span>
+          <span className="bar"></span>
+          <span className="bar"></span>
+        </div>
+        <div className="navbar-links">
+          <ul>
+            <li>
+              <Link href="#">
+                <a>Portfolio</a>
+              </Link>
+            </li>
 
-        <Link href="#">
-          <a>Portfolio</a>
-        </Link>
+            <li>
+              <Link href="/about">
+                <a>About</a>
+              </Link>
+            </li>
 
-        <Link href="/about">
-          <a>About</a>
-        </Link>
+            <li>
+              <Link href="/blog">
+                <a>Blog</a>
+              </Link>
+            </li>
 
-        <Link href="/blog">
-          <a>Blog</a>
-        </Link>
-
-        <Link href="https://twitter.com/kimutai_io" passHref={true}>
-          <a>Social</a>
-        </Link>
+            <li>
+              <Link href="https://twitter.com/kimutai_io" passHref={true}>
+                <a>Social</a>
+              </Link>
+            </li>
+          </ul>
+        </div>
       </nav>
       <style jsx>
         {`
           nav {
             margin: 20px auto 40px auto;
             display: flex;
-            justify-content: center;
-            align-items: flex-end;
+            flex-direction: row;
+            // justify-content: space-between;
+            // // align-items: flex-end;
           }
 
-          nav a {
+          .navbar-links ul {
+            margin: 0;
+            padding: 0;
+            display: flex;
+          }
+
+          .navbar-links li {
             margin-left: 12px;
             color: #a6accd;
             font-weight: 700;

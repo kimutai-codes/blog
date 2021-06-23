@@ -58,3 +58,43 @@ pre code {
   max-width: 95%;
   margin: 0 auto;
 }
+.toggle-button {
+  position: absolute;
+  top: 0.75rem;
+  right: 1rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+}
+
+.toggle-button .bar {
+  height: 3px;
+  width: 100%;
+  background-color: white;
+}
+
+.navbar-links ul {
+  list-style-type: none;
+}
+@media (max-width: 700px) {
+  .toggle-button {
+    display: flex;
+  }
+  .navbar-links {
+    width: 100%;
+  }
+  nav {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .navbar-links ul {
+    list-style-type: none;
+    flex-direction: column;
+    width: 100%;
+  }
+  .navbar-links li {
+    text-align: center;
+  }
+}
