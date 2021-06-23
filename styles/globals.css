@@ -53,7 +53,8 @@ pre code {
   word-wrap: break-word;
 }
 
-.blogContent {
-  max-width: 90%;
+.blogContent,
+.mwili {
+  max-width: 95%;
   margin: 0 auto;
 }
