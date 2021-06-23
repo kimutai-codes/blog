@@ -99,7 +99,7 @@ pre code {
   .navbar-links li {
     text-align: center;
   }
-  .navbar-links:active {
+  .navbar-links-active {
     display: flex;
   }
 }

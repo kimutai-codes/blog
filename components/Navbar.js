@@ -1,7 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
 import styles from "../styles/Home.module.css";
+import React, { useState } from "react";
 const Navbar = () => {
+  const [isActive, setIsActive] = useState(false);
+  const onClickHandler = () => {
+    setIsActive(!isActive);
+  };
   return (
     <>
       <nav className="navbar">
@@ -10,12 +15,14 @@ const Navbar = () => {
             <a>🌱</a>
           </Link>
         </div>
-        <div className="toggle-button">
+        <div className="toggle-button" onClick={onClickHandler}>
           <span className="bar"></span>
           <span className="bar"></span>
           <span className="bar"></span>
         </div>
-        <div className="navbar-links">
+        <div
+          className={`navbar-links ${isActive ? "navbar-links-active" : ""}`}
+        >
           <ul>
             <li>
               <Link href="#">
