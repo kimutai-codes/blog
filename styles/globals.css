@@ -8,7 +8,6 @@ body {
   font-family: "Nunito", sans-serif;
   background-color: #292d3e;
   color: #a6accd;
-  font-size: large;
   position: relative;
 }
 
@@ -60,4 +59,19 @@ pre code {
   margin: 0 auto;
   min-height: 100vh;
   padding-bottom: 2.5rem;
+}
+
+.blogContent,
+.mwili a {
+  word-wrap: break-word;
+  font-size: 17px;
+}
+
+.blogContent ul,
+ol {
+  list-style-position: outside;
+}
+
+nav {
+  font-size: large;
 }
