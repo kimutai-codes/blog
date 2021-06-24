@@ -22,7 +22,7 @@ const Blog = ({ slugs }) => {
       {slugs.map((slug) => {
         return (
           <div key={slug}>
-            <Link href={"blog/" + slug}>
+            <Link href={"/blog/" + slug}>
               <a>{slug}</a>
             </Link>
           </div>
