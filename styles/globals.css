@@ -9,7 +9,7 @@ body {
   background-color: #292d3e;
   color: #a6accd;
   font-size: large;
-  min-height: 100vh;
+  position: relative;
 }
 
 * {
@@ -58,4 +58,6 @@ pre code {
 .mwili {
   max-width: 95%;
   margin: 0 auto;
+  min-height: 100vh;
+  padding-bottom: 2.5rem;
 }

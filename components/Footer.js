@@ -6,11 +6,11 @@ const Footer = () => {
       </p>
       <style jsx>{`
         footer {
-          position: fixed;
-          bottom: 0px;
-          left: 0px;
+          position: absolute;
+          left: 0;
           right: 0px;
-          width: inherit;
+          bottom: 0;
+          width: 100%;
           text-align: center;
         }
       `}</style>
