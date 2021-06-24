@@ -1,10 +1,11 @@
 import Head from "next/head";
 
+const aboutTitle = "About Kimutai";
 const About = () => {
   return (
     <>
       <Head>
-        <title>About Kimutai</title>
+        <title>{aboutTitle}</title>
       </Head>
       <h1>Know More About Me</h1>
       <p>

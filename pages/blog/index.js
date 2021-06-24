@@ -15,7 +15,7 @@ const Blog = ({ slugs }) => {
   return (
     <>
       <Head>
-        <title>Blog</title>
+        <title>Blog Repository | Allan Kimutai</title>
       </Head>
       <h1>Welcome to the blog</h1>
 
