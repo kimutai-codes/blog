@@ -1,0 +1,24 @@
+backend:
+  name: test-repo
+  branch: main # Branch to update (optional; defaults to master)
+
+media_folder: public/images/uploads #where uploaded images are uploaded
+public_folder: images/uploads #where we serve uploaded images from
+
+publish_mode: editorial_workflow #enables you to draft,review and publish when ready
+
+collections:
+  # - name: "blog" # Used in routes, e.g., /admin/collections/blog
+
+  - label: "Blog" #name in the editor UI
+    name: "blog" # Used in routes, e.g., /admin/collections/blog
+    description: "Main Blog Archive"
+    folder: "posts"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Author", name: "author", widget: "string", default: "Admin"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
