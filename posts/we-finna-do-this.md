@@ -1,6 +1,6 @@
 ---
 title: We Finna Do This
-date: 2021-06-25T12:40:14.273Z
+date: "25-6-2021" 
 author: Admin
 thumbnail: images/uploads/alessandro-erbetta-mpwpcrt9d1e-unsplash.jpg
 ---
