@@ -37,7 +37,7 @@ export const getStaticProps = async ({ params: { slug } }) => {
 
   const parsedMarkdown = matter(markdownWithMetadata);
   const htmlString = marked(parsedMarkdown.content);
-  console.log(parsedMarkdown);
+  console.log(parsedMarkdown.data);
 
   //return an object with props inside of it
   return {
@@ -56,12 +56,18 @@ const Post = ({ htmlString, data }) => {
         <title>{data.title}</title>
         <meta name="description" content={data.description} />
       </Head>
+
       <h1>{data.title}</h1>
-      {/* <p>{data.description}</p> */}
+
+      <p>{data.description}</p>
+
+      <span>{data.date}</span>
+
       <div
         dangerouslySetInnerHTML={{ __html: htmlString }}
         className="blogContent"
-      ></div>
+      />
+
       <style jsx>{`
         .blogContent {
           // word-wrap: break-word;
