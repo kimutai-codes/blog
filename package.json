@@ -9,8 +9,10 @@
     "export": "npm run build && next export"
   },
   "dependencies": {
+    "date-fns": "^2.22.1",
     "gray-matter": "^4.0.3",
     "marked": "^2.0.5",
+    "moment": "^2.29.1",
     "next": "10.2.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
