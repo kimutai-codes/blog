@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import Head from "next/head";
 import marked from "marked";
-import { format, parse, parseISO } from "date-fns";
+import { format } from "date-fns";
 import moment from "moment";
 
 export const getStaticPaths = async () => {
@@ -40,10 +40,11 @@ export const getStaticProps = async ({ params: { slug } }) => {
   const parsedMarkdown = matter(markdownWithMetadata);
   const htmlString = marked(parsedMarkdown.content);
   console.log(parsedMarkdown.data);
-  const date = parsedMarkdown.data.date;
-  const rawDate = date;
-  // const parsedDate = parse("25/06/2012", "dd/MMM/yyyy", new Date());
-  const parsedDate = moment("06/25/2012").format("Mo MMM YYYY");
+  const rawDate = parsedMarkdown.data.date.toString();
+  //date_fns working too
+  const parsedDate = format(new Date(rawDate), "do MMM yyyy");
+  // meoment JS working
+  // const parsedDate = moment(rawDate).format("Do MMM YYYY");
   console.log(parsedDate);
 
   //return an object with props inside of it
@@ -51,12 +52,13 @@ export const getStaticProps = async ({ params: { slug } }) => {
     props: {
       htmlString,
       data: parsedMarkdown.data,
+      parsedDate,
     },
   };
 };
 
 //this is the template that also makes dinamic routes
-const Post = ({ htmlString, data }) => {
+const Post = ({ htmlString, data, parsedDate }) => {
   return (
     <>
       <Head>
@@ -68,7 +70,7 @@ const Post = ({ htmlString, data }) => {
 
       <p>{data.description}</p>
 
-      <span>{data.date}</span>
+      <span>{parsedDate}</span>
 
       <div
         dangerouslySetInnerHTML={{ __html: htmlString }}
