@@ -22,4 +22,5 @@ collections:
       # - {label: "Author", name: "author", widget: "string", default: "Admin"}
       - {label: "Featured Image", name: "thumbnail", default: '', widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: [""]}
 
