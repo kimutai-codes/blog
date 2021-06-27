@@ -12,7 +12,9 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="logo">
           <Link href="/">
-            <a>🌱</a>
+            <a>
+              <Image src="/images/growth.png" width="30" height="30" />
+            </a>
           </Link>
         </div>
         <div className="toggle-button" onClick={onClickHandler}>
