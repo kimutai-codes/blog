@@ -1,34 +1,64 @@
 import Head from "next/head";
 import Link from "next/link";
-import fs from "fs";
+import { getAllPosts } from "../../lib/data";
+import { format } from "date-fns";
 
-export const getStaticProps = async () => {
-  const files = fs.readdirSync("posts");
+function Home({ posts }) {
+  return (
+    <div>
+      <Head>
+        <title>Create Next App</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
+      <div>
+        {posts.map((item) => (
+          <BlogListItem key={item.slug} {...item} />
+        ))}
+      </div>
+    </div>
+  );
+}
+
+export async function getStaticProps() {
+  const allPosts = getAllPosts();
   return {
     props: {
-      slugs: files.map((fileName) => fileName.replace(".md", "")),
+      posts: allPosts.map(({ data, content, slug }) => ({
+        description: data.description,
+        date: format(new Date(data.date), "do MMM yyyy"),
+        ...data,
+        content,
+        slug,
+      })),
     },
   };
-};
+}
 
-const Blog = ({ slugs }) => {
+function BlogListItem({ slug, title, date }) {
   return (
     <>
-      <Head>
-        <title>Blog Repository | Allan Kimutai</title>
-      </Head>
-      <h1>Welcome to the blog</h1>
-
-      {slugs.map((slug) => {
-        return (
-          <div key={slug}>
-            <Link href={"/blog/" + slug}>
-              <a>{slug}</a>
-            </Link>
-          </div>
-        );
-      })}
+      <div>
+        <span>{date}</span>
+        <Link href={`/blog/${slug}`}>
+          <a className="font-bold">{title}</a>
+        </Link>
+      </div>
+      <style jsx>
+        {`
+          span {
+            // background-color: blue;
+            padding-right: 15px;
+          }
+          div {
+            text-align: center;
+            display: flex;
+            flex-wrap: wrap;
+          }
+        `}
+      </style>
     </>
   );
-};
-export default Blog;
+}
+
+export default Home;

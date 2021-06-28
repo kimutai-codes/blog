@@ -39,13 +39,13 @@ export const getStaticProps = async ({ params: { slug } }) => {
 
   const parsedMarkdown = matter(markdownWithMetadata);
   const htmlString = marked(parsedMarkdown.content);
-  console.log(parsedMarkdown.data);
+  // console.log(parsedMarkdown.data);
   const rawDate = parsedMarkdown.data.date.toString();
   //date_fns working too
   const parsedDate = format(new Date(rawDate), "do MMM yyyy");
   // meoment JS working
   // const parsedDate = moment(rawDate).format("Do MMM YYYY");
-  console.log(parsedDate);
+  // console.log(parsedDate);
 
   //return an object with props inside of it
   return {
