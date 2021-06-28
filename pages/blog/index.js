@@ -26,7 +26,7 @@ export async function getStaticProps() {
     props: {
       posts: allPosts.map(({ data, content, slug }) => ({
         description: data.description,
-        date: format(new Date(data.date), "do MMM yyyy"),
+        date: data.date,
         ...data,
         content,
         slug,
@@ -36,10 +36,13 @@ export async function getStaticProps() {
 }
 
 function BlogListItem({ slug, title, date }) {
+  const formatedDate = format(new Date(date), "do MMM yyyy");
+  console.log(formatedDate);
+
   return (
     <>
       <div>
-        <span>{date}</span>
+        <span>{formatedDate}</span>
         <Link href={`/blog/${slug}`}>
           <a className="font-bold">{title}</a>
         </Link>
