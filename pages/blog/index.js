@@ -42,9 +42,11 @@ function BlogListItem({ slug, title, date }) {
   return (
     <>
       <div>
-        <span>{formatedDate}</span>
         <Link href={`/blog/${slug}`}>
-          <a className="font-bold">{title}</a>
+          <a className="font-bold">
+            <span>{formatedDate}</span>
+            {title}
+          </a>
         </Link>
       </div>
       <style jsx>
@@ -53,10 +55,18 @@ function BlogListItem({ slug, title, date }) {
             // background-color: blue;
             padding-right: 15px;
           }
-          div {
+          a {
             text-align: center;
             display: flex;
             flex-wrap: wrap;
+            margin: 1em 0;
+            padding: 0.3em;
+            width: max-content;
+            border-left: 5px solid grey;
+            border-radius: 5px;
+          }
+          a span {
+            color: #a6accd;
           }
         `}
       </style>
