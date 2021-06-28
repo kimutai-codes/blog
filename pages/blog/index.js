@@ -10,6 +10,9 @@ function Home({ posts }) {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
+      <div>
+        <h1>Blog Archive ✍🏾</h1>
+      </div>
 
       <div>
         {posts.map((item) => (
@@ -37,7 +40,6 @@ export async function getStaticProps() {
 
 function BlogListItem({ slug, title, date }) {
   const formatedDate = format(new Date(date), "do MMM yyyy");
-  console.log(formatedDate);
 
   return (
     <>
@@ -49,6 +51,7 @@ function BlogListItem({ slug, title, date }) {
           </a>
         </Link>
       </div>
+
       <style jsx>
         {`
           span {

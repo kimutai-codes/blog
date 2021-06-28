@@ -26,21 +26,21 @@ const Navbar = () => {
           className={`navbar-links ${isActive ? "navbar-links-active" : ""}`}
         >
           <ul>
-            <li>
-              <Link href="#">
-                <a>Portfolio</a>
-              </Link>
-            </li>
+            {/* <li> */}
+            {/*   <Link href="#"> */}
+            {/*     <a>Portfolio</a> */}
+            {/*   </Link> */}
+            {/* </li> */}
 
-            <li>
-              <Link href="/about">
-                <a>About</a>
-              </Link>
-            </li>
+            {/* <li> */}
+            {/*   <Link href="/about"> */}
+            {/*     <a>About</a> */}
+            {/*   </Link> */}
+            {/* </li> */}
 
             <li>
               <Link href="/blog">
-                <a>Blog</a>
+                <a>Notes ✍🏾</a>
               </Link>
             </li>
 

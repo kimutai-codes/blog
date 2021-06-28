@@ -29,7 +29,6 @@ const Blog = ({ posts, title, slug, content, data }) => {
             <a>{item.slug}</a>
           </Link>
         </div>;
-        console.log(item.slug);
       })}
     </>
   );
