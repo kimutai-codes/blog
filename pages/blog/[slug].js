@@ -63,12 +63,11 @@ const Post = ({ htmlString, data, parsedDate }) => {
         <title>{data.title}</title>
         <meta name="description" content={data.description} />
       </Head>
-
-      <h1>{data.title}</h1>
-
-      <p>{data.description}</p>
-
-      <span>{parsedDate}</span>
+      <span className="blogHeader">
+        <h1>{data.title}</h1>
+        <span className="desc">{data.description}</span>
+        <span className="date">{parsedDate}</span>
+      </span>
 
       <div
         dangerouslySetInnerHTML={{ __html: htmlString }}
@@ -76,8 +75,30 @@ const Post = ({ htmlString, data, parsedDate }) => {
       />
 
       <style jsx>{`
-        .blogContent {
-          // word-wrap: break-word;
+        .blogHeader {
+          margin-bottom: 0;
+        }
+        .blogHeader .desc{
+          text-align: center;
+          display: block;
+          text-anchor: middle;
+          margin-bottom: .5em;
+        }
+        .blogHeader .date {
+          text-align: center;
+          display: block;
+          font-style: italic;
+        }
+        {/* .blogHeader h1{
+          margin: 0;
+        } */}
+        .blogContent{
+          margin-top: 3rem;
+        }
+        {/* @media (max-width:700){
+          .blogHeader{
+            margin: initial;
+          } */}
         }
       `}</style>
     </>
