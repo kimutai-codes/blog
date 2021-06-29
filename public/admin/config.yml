@@ -19,16 +19,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date",default: '', format: "MM-DD-YYYY"}
-      - {
-      label: "Start time",
-  name: "start",
-  widget: "datetime",
-  default: "",
-  date_format: "DD.MM.YYYY",
-  time_format: "HH:mm",
-  format: "LLL",
-  picker_utc: true
-      }
+      - label: "Start time"
+        name: "start"
+        widget: "datetime"
+        default: ""
+        date_format: "DD.MM.YYYY" # e.g. 24.12.2021
+        time_format: "HH:mm" # e.g. 21:07
+        format: "LLL"
+        picker_utc: false
       # - {label: "Author", name: "author", widget: "string", default: "Admin"}
       - {label: "Featured Image", name: "thumbnail", default: '', widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
