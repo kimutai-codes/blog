@@ -17,10 +17,11 @@ function Home({ posts }) {
       <div>
         {posts.map((item) => (
           // TODO  create a way to display blog posts based on date
-          // TODO use datetime widget in netlify cms or generate unitx time (just sth unique)
+          //  use datetime widget in netlify cms or generate unitx time (just sth unique)
           // how does nextjs write those full dates and how does that affect my projject
-          // TODO git push find way to fromat that date
-          <BlogListItem key={item.slug} {...item} />
+          //  git push 
+          // TODO find way to fromat that date
+          <BlogListItem key={item.start} {...item} />
         ))}
       </div>
     </div>
