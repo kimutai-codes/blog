@@ -16,6 +16,10 @@ function Home({ posts }) {
 
       <div>
         {posts.map((item) => (
+          // TODO  create a way to display blog posts based on date
+          // TODO use datetime widget in netlify cms or generate unitx time (just sth unique)
+          // how does nextjs write those full dates and how does that affect my projject
+          // TODO git push find way to fromat that date
           <BlogListItem key={item.slug} {...item} />
         ))}
       </div>
@@ -40,6 +44,7 @@ export async function getStaticProps() {
 
 function BlogListItem({ slug, title, date }) {
   const formatedDate = format(new Date(date), "do MMM yyyy");
+ console.log(slug);
 
   return (
     <>
