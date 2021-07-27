@@ -1,6 +1,6 @@
 backend:
-  name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+    name: git-gateway
+    branch: main # Branch to update (optional; defaults to master)
 
 media_folder: public/images/uploads #where uploaded images are uploaded
 public_folder: images/uploads #where we serve uploaded images from
@@ -8,27 +8,42 @@ public_folder: images/uploads #where we serve uploaded images from
 publish_mode: editorial_workflow #enables you to draft,review and publish when ready
 
 collections:
-  # - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    # - name: "blog" # Used in routes, e.g., /admin/collections/blog
 
-  - label: "Blog" #name in the editor UI
-    name: "blog" # Used in routes, e.g., /admin/collections/blog
-    description: "Main Blog Archive"
-    folder: "posts"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "date",default: '', format: "MM-DD-YYYY"}
-      - label: "Start time"
-        name: "start"
-        widget: "datetime"
-        default: ""
-        date_format: "DD.MM.YYYY" # e.g. 24.12.2021
-        time_format: "HH:mm" # e.g. 21:07
-        format: "LLL"
-        picker_utc: false
-      # - {label: "Author", name: "author", widget: "string", default: "Admin"}
-      - {label: "Featured Image", name: "thumbnail", default: '', widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list", allow_add: true, default: [""]}
-
+    - label: 'Blog' #name in the editor UI
+      name: 'blog' # Used in routes, e.g., /admin/collections/blog
+      description: 'Main Blog Archive'
+      folder: 'posts'
+      create: true
+      fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'string' }
+          - {
+                label: 'Tags',
+                name: 'tags',
+                widget: 'list',
+                allow_add: true,
+                default: [''],
+            }
+          - {
+                label: 'Publish Date',
+                name: 'date',
+                widget: 'date',
+                format: 'MM-DD-YYYY',
+            }
+          # - label: 'Start time'
+          #   name: 'start'
+          #   widget: 'datetime'
+          #   default: ''
+          #   date_format: 'DD.MM.YYYY' # e.g. 24.12.2021
+          #   time_format: 'HH:mm' # e.g. 21:07
+          #   format: 'LLL'
+          #   picker_utc: false
+          # - {label: "Author", name: "author", widget: "string", default: "Admin"}
+          - {
+                label: 'Featured Image',
+                name: 'thumbnail',
+                default: '',
+                widget: 'image',
+            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }

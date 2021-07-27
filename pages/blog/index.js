@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import { getAllPosts } from '../../lib/data';
-import { format } from 'date-fns';
+import { format, parse } from 'date-fns';
 import { sortByDate } from '../../utils';
 
 function Home({ posts }) {
@@ -48,7 +48,10 @@ export async function getStaticProps() {
 
 function BlogListItem({ slug, title, date }) {
 	const formatedDate = format(new Date(date), 'do MMM yyyy');
-	console.log(slug);
+	// const dateString = date;
+	// const tarehe = parse(dateString, 'MM-dd-yy', new Date());
+	// const formatedDate = format(tarehe, 'do MMM yyy');
+	// console.log(typeof formatedDate);
 
 	return (
 		<>
