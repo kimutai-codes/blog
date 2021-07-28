@@ -8,7 +8,7 @@ function Home({ posts }) {
 	return (
 		<div>
 			<Head>
-				<title>Create Next App</title>
+				<title>Blog Repository | Allan Kimutai</title>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
 			<div>
