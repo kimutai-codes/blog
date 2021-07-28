@@ -1,92 +1,53 @@
-import Head from 'next/head';
 import Link from 'next/link';
-import { getAllPosts } from '../../lib/data';
-import { format, parse } from 'date-fns';
-import { sortByDate } from '../../utils';
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import Head from 'next/head';
 
-function Home({ posts }) {
+const Home = ({ posts }) => {
+	console.log(posts);
 	return (
 		<div>
 			<Head>
 				<title>Blog Repository | Allan Kimutai</title>
-				<link rel='icon' href='/favicon.ico' />
 			</Head>
-			<div>
-				<h1>Blog Archive ✍🏾</h1>
-			</div>
+			<div>Blog Archive ✍🏾</div>
 
-			<div>
-				{posts.map((item) => (
-					// TODO  create a way to display blog posts based on date
-					//  use datetime widget in netlify cms or generate unitx time (just sth unique)
-					// how does nextjs write those full dates and how does that affect my projject
-					//  git push
-					// TODO find way to fromat that date
-					<BlogListItem key={item.date} {...item} />
-				))}
-			</div>
+			{posts.map((post, index) => (
+				<div>
+					<Link href={`/blog/${post.slug}`}>
+						<a className='font-bold'>
+							<span>{post.frontMatter.date}</span>
+							{post.frontMatter.title}
+						</a>
+					</Link>
+				</div>
+			))}
 		</div>
 	);
-}
+};
 
-export async function getStaticProps() {
-	const allPosts = getAllPosts();
+export const getStaticProps = async () => {
+	const postFiles = fs.readdirSync('posts');
+
+	const posts = postFiles.map((fileName) => {
+		//get slugs
+		const slug = fileName.replace('.md', '');
+		//get frontmatter
+		const postPaths = path.join('posts', slug + '.md');
+		const fileContents = fs.readFileSync(postPaths, 'utf8');
+		const { data: frontMatter } = matter(fileContents);
+		return {
+			slug,
+			frontMatter,
+		};
+	});
+
 	return {
 		props: {
-			posts: allPosts
-				.map(({ data, content, slug }) => ({
-					description: data.description,
-					date: data.date,
-					...data,
-					content,
-					slug,
-				}))
-				.sort(sortByDate),
+			posts,
 		},
 	};
-}
-
-function BlogListItem({ slug, title, date }) {
-	const formatedDate = format(new Date(date), 'do MMM yyyy');
-	// const dateString = date;
-	// const tarehe = parse(dateString, 'MM-dd-yy', new Date());
-	// const formatedDate = format(tarehe, 'do MMM yyy');
-	// console.log(typeof formatedDate);
-
-	return (
-		<>
-			<div>
-				<Link href={`/blog/${slug}`}>
-					<a className='font-bold'>
-						<span>{formatedDate}</span>
-						{title}
-					</a>
-				</Link>
-			</div>
-
-			<style jsx>
-				{`
-					span {
-						// background-color: blue;
-						padding-right: 15px;
-					}
-					a {
-						text-align: center;
-						display: flex;
-						flex-wrap: wrap;
-						margin: 1em 0;
-						padding: 0.3em;
-						width: max-content;
-						border-left: 5px solid grey;
-						border-radius: 5px;
-					}
-					a span {
-						color: #a6accd;
-					}
-				`}
-			</style>
-		</>
-	);
-}
+};
 
 export default Home;
