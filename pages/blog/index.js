@@ -3,6 +3,8 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import Head from 'next/head';
+import { format } from 'date-fns';
+import { sortByDate } from '../../utils';
 
 const Home = ({ posts }) => {
 	console.log(posts);
@@ -11,18 +13,39 @@ const Home = ({ posts }) => {
 			<Head>
 				<title>Blog Repository | Allan Kimutai</title>
 			</Head>
-			<div>Blog Archive ✍🏾</div>
+			<h1>Blog Archive ✍🏾</h1>
 
 			{posts.map((post, index) => (
-				<div>
+				<div key={index}>
 					<Link href={`/blog/${post.slug}`}>
 						<a className='font-bold'>
-							<span>{post.frontMatter.date}</span>
+							<span>{post.parsedDate}</span>
 							{post.frontMatter.title}
 						</a>
 					</Link>
 				</div>
 			))}
+			<style jsx>
+				{`
+					span {
+						// background-color: blue;
+						padding-right: 15px;
+					}
+					a {
+						text-align: center;
+						display: flex;
+						flex-wrap: wrap;
+						margin: 1em 0;
+						padding: 0.3em;
+						width: max-content;
+						border-left: 5px solid grey;
+						border-radius: 5px;
+					}
+					a span {
+						color: #a6accd;
+					}
+				`}
+			</style>
 		</div>
 	);
 };
@@ -37,15 +60,19 @@ export const getStaticProps = async () => {
 		const postPaths = path.join('posts', slug + '.md');
 		const fileContents = fs.readFileSync(postPaths, 'utf8');
 		const { data: frontMatter } = matter(fileContents);
+		const rawDate = frontMatter.date;
+		const parsedDate = format(new Date(rawDate), 'do MMM yyyy');
+
 		return {
 			slug,
 			frontMatter,
+			parsedDate,
 		};
 	});
 
 	return {
 		props: {
-			posts,
+			posts: posts.sort(sortByDate),
 		},
 	};
 };
