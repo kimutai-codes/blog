@@ -7,7 +7,6 @@ import { format } from 'date-fns';
 import { sortByDate } from '../../utils';
 
 const Home = ({ posts }) => {
-	console.log(posts);
 	return (
 		<div>
 			<Head>
