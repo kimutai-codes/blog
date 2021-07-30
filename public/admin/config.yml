@@ -32,14 +32,14 @@ collections:
           #       format: 'MM-DD-YYYY',
           #   }
           - {
-            label: 'Publish Date'
-            name: 'date'
-            widget: 'datetime'
-            default: ''
-            date_format: 'MM-DD-YYYY' # e.g. 24.12.2021
-            time_format: 'HH:mm' # e.g. 21:07
-            format: 'LLL'
-            picker_utc: false
+                label: 'Publish Date',
+                name: 'date',
+                widget: 'datetime',
+                default: '',
+                date_format: 'MM-DD-YYYY',
+                time_format: 'HH:mm',
+                format: 'LLL',
+                picker_utc: false,
             }
           - {
                 label: 'Author',
