@@ -1,69 +1,29 @@
-import Head from 'next/head';
 import Link from 'next/link';
-import { getAllPosts } from '../../lib/data';
-import { format, parse } from 'date-fns';
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import Head from 'next/head';
+import { format } from 'date-fns';
 import { sortByDate } from '../../utils';
 
-function Home({ posts }) {
+const Home = ({ posts }) => {
 	return (
 		<div>
 			<Head>
 				<title>Blog Repository | Allan Kimutai</title>
-				<link rel='icon' href='/favicon.ico' />
 			</Head>
-			<div>
-				<h1>Blog Archive ✍🏾</h1>
-			</div>
+			<h1>Blog Archive ✍🏾</h1>
 
-			<div>
-				{posts.map((item) => (
-					// TODO  create a way to display blog posts based on date
-					//  use datetime widget in netlify cms or generate unitx time (just sth unique)
-					// how does nextjs write those full dates and how does that affect my projject
-					//  git push
-					// TODO find way to fromat that date
-					<BlogListItem key={item.date} {...item} />
-				))}
-			</div>
-		</div>
-	);
-}
-
-export async function getStaticProps() {
-	const allPosts = getAllPosts();
-	return {
-		props: {
-			posts: allPosts
-				.map(({ data, content, slug }) => ({
-					description: data.description,
-					date: data.date,
-					...data,
-					content,
-					slug,
-				}))
-				.sort(sortByDate),
-		},
-	};
-}
-
-function BlogListItem({ slug, title, date }) {
-	const formatedDate = format(new Date(date), 'do MMM yyyy');
-	// const dateString = date;
-	// const tarehe = parse(dateString, 'MM-dd-yy', new Date());
-	// const formatedDate = format(tarehe, 'do MMM yyy');
-	// console.log(typeof formatedDate);
-
-	return (
-		<>
-			<div>
-				<Link href={`/blog/${slug}`}>
-					<a className='font-bold'>
-						<span>{formatedDate}</span>
-						{title}
-					</a>
-				</Link>
-			</div>
-
+			{posts.map((post, index) => (
+				<div key={index}>
+					<Link href={`/blog/${post.slug}`}>
+						<a className='font-bold'>
+							<span>{post.parsedDate}</span>
+							{post.frontMatter.title}
+						</a>
+					</Link>
+				</div>
+			))}
 			<style jsx>
 				{`
 					span {
@@ -85,8 +45,35 @@ function BlogListItem({ slug, title, date }) {
 					}
 				`}
 			</style>
-		</>
+		</div>
 	);
-}
+};
+
+export const getStaticProps = async () => {
+	const postFiles = fs.readdirSync('posts');
+
+	const posts = postFiles.map((fileName) => {
+		//get slugs
+		const slug = fileName.replace('.md', '');
+		//get frontmatter
+		const postPaths = path.join('posts', slug + '.md');
+		const fileContents = fs.readFileSync(postPaths, 'utf8');
+		const { data: frontMatter } = matter(fileContents);
+		const rawDate = frontMatter.date;
+		const parsedDate = format(new Date(rawDate), 'do MMM yyyy');
+
+		return {
+			slug,
+			frontMatter,
+			parsedDate,
+		};
+	});
+
+	return {
+		props: {
+			posts: posts.sort(sortByDate),
+		},
+	};
+};
 
 export default Home;
