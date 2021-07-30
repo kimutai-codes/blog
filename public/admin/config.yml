@@ -41,12 +41,12 @@ collections:
                 format: 'LLL',
                 picker_utc: false,
             }
-          - {
-                label: 'Author',
-                name: 'author',
-                widget: 'string',
-                default: 'Admin',
-            }
+          # - {
+          #       label: 'Author',
+          #       name: 'author',
+          #       widget: 'string',
+          #       default: 'Admin',
+          #   }
           - {
                 label: 'Featured Image',
                 name: 'thumbnail',
