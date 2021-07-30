@@ -25,14 +25,18 @@ collections:
                 allow_add: true,
                 default: [''],
             }
-          # - {
-          #       label: 'Publish Date',
-          #       name: 'date',
-          #       widget: 'date',
-          #       format: 'MM-DD-YYYY',
-          #   }
           - {
-                label: 'Publish Date',
+                label: 'Date published',
+                name: 'published-date',
+                widget: 'datetime',
+                default: '',
+                date_format: 'MM-DD-YYYY',
+                time_format: 'HH:mm',
+                format: 'LLL',
+                picker_utc: false,
+            }
+          - {
+                label: 'Date Updated',
                 name: 'date',
                 widget: 'datetime',
                 default: '',
