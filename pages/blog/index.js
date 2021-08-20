@@ -37,7 +37,7 @@ const Home = ({ posts }) => {
 						margin: 1em 0;
 						padding: 0.3em;
 						width: max-content;
-						border-left: 5px solid grey;
+						border-left: 5px solid #82aaff;
 						border-radius: 5px;
 					}
 					a span {
