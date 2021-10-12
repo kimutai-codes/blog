@@ -68,7 +68,8 @@ nav {
 }
 
 blockquote {
-	border-left: 3px solid #82aaff;
+	border-left: 3px solid #c792ea;
 	padding: 0 10px;
 	margin-left: 10px;
+	color: #C792EA;
 }
