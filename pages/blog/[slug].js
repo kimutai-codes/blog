@@ -78,7 +78,8 @@ const Post = ({ htmlString, data, parsedDate }) => {
 				width={1080}
 				height={610}
 				alt=''
-				priority
+				layout='responsive'
+				priority='true'
 			/>
 
 			<div
