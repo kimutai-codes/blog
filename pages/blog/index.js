@@ -37,11 +37,13 @@ const Home = ({ posts }) => {
 						margin: 1em 0;
 						padding: 0.3em;
 						width: max-content;
-						border-left: 5px solid grey;
+						border-left: 5px solid #82aaff;
 						border-radius: 5px;
+						color: #96a0c1;
 					}
-					a span {
-						color: #a6accd;
+
+					a:hover {
+						color: #82aaff;
 					}
 				`}
 			</style>

@@ -58,7 +58,7 @@ export const getStaticProps = async ({ params: { slug } }) => {
 
 //this is the template that also makes dinamic routes
 const Post = ({ htmlString, data, parsedDate }) => {
-	console.log(data);
+	// console.log(data);
 	return (
 		<>
 			<Head>
@@ -87,9 +87,6 @@ const Post = ({ htmlString, data, parsedDate }) => {
 			/>
 
 			<style jsx>{`
-        .blogHeader {
-          margin-bottom: 0;
-        }
         .blogHeader .desc{
           text-align: center;
           display: block;
@@ -100,6 +97,7 @@ const Post = ({ htmlString, data, parsedDate }) => {
           text-align: center;
           display: block;
           font-style: italic;
+          margin-bottom: 25px;
         }
         {/* .blogHeader h1{
           margin: 0;
