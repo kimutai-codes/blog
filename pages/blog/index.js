@@ -18,8 +18,7 @@ const Home = ({ posts }) => {
 				<div key={index}>
 					<Link href={`/blog/${post.slug}`}>
 						<a className='font-bold'>
-							<span>{post.parsedDate}</span>
-							{post.frontMatter.title}
+							{post.parsedDate} {post.frontMatter.title}
 						</a>
 					</Link>
 				</div>
