@@ -18,7 +18,8 @@ const Home = ({ posts }) => {
 				<div key={index}>
 					<Link href={`/blog/${post.slug}`}>
 						<a className='font-bold'>
-							{post.parsedDate} {post.frontMatter.title}
+							{post.parsedDate}
+							<span>{post.frontMatter.title}</span>
 						</a>
 					</Link>
 				</div>
@@ -26,8 +27,8 @@ const Home = ({ posts }) => {
 			<style jsx>
 				{`
 					span {
-						// background-color: blue;
-						padding-right: 15px;
+						padding-left: 15px;
+						text-decoration: underline #82aaff;
 					}
 					a {
 						text-align: center;
