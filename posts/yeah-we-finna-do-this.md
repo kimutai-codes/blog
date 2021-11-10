@@ -1,11 +1,11 @@
 ---
-title: Yeah We Finna Do This
-description: the description is now here
+title: Ernest Wamboye Talk On Sexual Purity
+description: sexual purity among the youth esp in this hard time
 tags:
   - ""
 published-date: November 10, 2021 6:37 PM
 date: November 10, 2021 6:37 PM
-thumbnail: images/uploads/alessandro-erbetta-mpwpcrt9d1e-unsplash.jpg
+thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
 ---
 Mark 1:11
 You are my son - Acceptance
