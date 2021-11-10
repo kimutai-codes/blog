@@ -5,6 +5,7 @@ import matter from 'gray-matter';
 import Head from 'next/head';
 import { format } from 'date-fns';
 import { sortByDate } from '../../utils';
+import Post from '../../components/Posts';
 
 const Home = ({ posts }) => {
 	return (
@@ -14,16 +15,12 @@ const Home = ({ posts }) => {
 			</Head>
 			<h1>Blog Archive ✍🏾</h1>
 
-			{posts.map((post, index) => (
-				<div key={index}>
-					<Link href={`/blog/${post.slug}`}>
-						<a className='font-bold'>
-							{/* {post.parsedDate} */}
-							<span>{post.frontMatter.title}</span>
-						</a>
-					</Link>
-				</div>
-			))}
+			<div className='posts'>
+				{posts.map((post, index) => (
+					<Post post={post} />
+				))}
+			</div>
+
 			<style jsx>
 				{`
 					span {
@@ -43,6 +40,11 @@ const Home = ({ posts }) => {
 
 					a:hover {
 						color: #82aaff;
+					}
+					img {       
+						height: 20px;
+						width: 20px;
+            border-radius: 5px;
 					}
 				`}
 			</style>
