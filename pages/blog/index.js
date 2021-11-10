@@ -41,10 +41,16 @@ const Home = ({ posts }) => {
 					a:hover {
 						color: #82aaff;
 					}
-					img {       
+					img {
 						height: 20px;
 						width: 20px;
-            border-radius: 5px;
+						border-radius: 5px;
+					}
+					.posts {
+						display: grid;
+						grid-template-columns: repeat(2, 1fr);
+						gap: 30px;
+						margin-top: 30px;
 					}
 				`}
 			</style>
