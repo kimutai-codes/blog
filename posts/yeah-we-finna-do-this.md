@@ -1,6 +1,6 @@
 ---
 title: Ernest Wamboye Talk On Sexual Purity
-description: sexual purity among the youth esp in this hard time
+description: Equipping the youth with education to uphold purity esp in this hard time
 tags:
   - ""
 published-date: November 10, 2021 6:37 PM
