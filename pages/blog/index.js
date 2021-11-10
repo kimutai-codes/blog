@@ -28,7 +28,6 @@ const Home = ({ posts }) => {
 				{`
 					span {
 						padding-left: 15px;
-						text-decoration: underline #82aaff;
 					}
 					a {
 						text-align: center;
