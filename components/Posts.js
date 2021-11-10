@@ -21,7 +21,7 @@ const Post = ({ post }) => {
 					.card {
 						padding: 15px;
 						border-radius: 10px;
-						box-shadow: 1px 3px 8px 0 grey;
+						box-shadow: 1px 3px 8px 0 rgba(0, 0, 0, 0.692);
 					}
 				`}
 			</style>
