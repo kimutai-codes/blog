@@ -18,7 +18,7 @@ const Home = ({ posts }) => {
 				<div key={index}>
 					<Link href={`/blog/${post.slug}`}>
 						<a className='font-bold'>
-							{post.parsedDate}
+							{/* {post.parsedDate} */}
 							<span>{post.frontMatter.title}</span>
 						</a>
 					</Link>
