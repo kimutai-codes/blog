@@ -19,7 +19,7 @@ const Post = ({ post }) => {
 						border-radius: 3%;
 					}
 					.card {
-						padding: 15px;
+						padding: 0 15px;
 						border-radius: 10px;
 						box-shadow: 1px 3px 8px 0 black;
 					}
