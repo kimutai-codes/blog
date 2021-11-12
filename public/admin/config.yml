@@ -27,7 +27,7 @@ collections:
             }
           - {
                 label: 'Date published',
-                name: 'published-date',
+                name: 'publishedDate',
                 widget: 'datetime',
                 default: '',
                 date_format: 'MM-DD-YYYY',
