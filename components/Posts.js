@@ -22,6 +22,7 @@ const Post = ({ post }) => {
 						padding: 15px;
 						border-radius: 10px;
 						box-shadow: 1px 3px 8px 0 black;
+            margin: 20px 20px ;
 					}
 				`}
 			</style>

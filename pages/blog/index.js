@@ -47,10 +47,11 @@ const Home = ({ posts }) => {
 						border-radius: 5px;
 					}
 					.posts {
-						display: grid;
-						grid-template-columns: repeat(2, 1fr);
-						gap: 30px;
-						margin-top: 30px;
+						display: flex;
+						flex-wrap: wrap;
+					}
+					.posts > * {
+						flex: 1 1 5em;
 					}
 				`}
 			</style>
