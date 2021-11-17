@@ -86,8 +86,8 @@ Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple
 7. Ungodly beliefs
    Here, write a list of misconceptions about yourself and God.
 
-* about me
-* about God
+* ungodly beliefs about me
+* ungodly beliefs about God
 
 8. Stubborn areas in my life
 
