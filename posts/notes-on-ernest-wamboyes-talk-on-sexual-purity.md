@@ -1,6 +1,6 @@
 ---
 title: Notes on Ernest Wamboye's Talk on Sexual Purity
-description: Equipping the youth with knowledge to be sexually pure lives
+description: Equipping the youth with knowledge to live sexually pure lives
 tags:
   - ""
 publishedDate: November 17, 2021 7:53 PM
