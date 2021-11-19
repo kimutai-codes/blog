@@ -19,6 +19,7 @@ const Post = ({ post }) => {
 						padding: 0 15px;
 						border-radius: 10px;
 						box-shadow: 1px 3px 8px 0 black;
+            flex: 1 1 40%;
 					}
 					.date {
 						color: #96a0c1;
