@@ -17,7 +17,7 @@ const Home = ({ posts }) => {
 
 			<div className='posts'>
 				{posts.map((post, index) => (
-					<Post post={post} />
+					<Post key={index} post={post} />
 				))}
 			</div>
 
@@ -58,25 +58,32 @@ const Home = ({ posts }) => {
 };
 
 export const getStaticProps = async () => {
+	//read post files from its folder
 	const postFiles = fs.readdirSync('posts');
-
+	//map over the postfiled to get details like slugs and stuff
+	//TOLEARN
 	const posts = postFiles.map((fileName) => {
 		//get slugs
 		const slug = fileName.replace('.md', '');
-		//get frontmatter
+		//get the exact path of each post
 		const postPaths = path.join('posts', slug + '.md');
+		//get the file contents using the fs module
 		const fileContents = fs.readFileSync(postPaths, 'utf8');
+		//deconstruct the data you fetch using the fs module and parse with matter to get frontmatter
+		//TOLEARN
 		const { data: frontMatter } = matter(fileContents);
+		// get date from the extracted frontmatter
 		const rawDate = frontMatter.date;
+		//parse the date with datefns format function
 		const parsedDate = format(new Date(rawDate), 'do MMM yyyy');
-
+		//return data about each file
 		return {
 			slug,
 			frontMatter,
 			parsedDate,
 		};
 	});
-
+	//the resturn of the variale above is what we are going to return as the props.This props is going to be the return of the getStaticProps function
 	return {
 		props: {
 			posts: posts.sort(sortByDate),

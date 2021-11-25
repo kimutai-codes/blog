@@ -6,7 +6,6 @@ const Post = ({ post }) => {
 	const parsedDate = format(new Date(rawDate), 'do MMM yyyy');
 	return (
 		<a href={`/blog/${post.slug}`} className='card'>
-			{/* <img src={post.frontMatter.thumbnail} alt='' /> */}
 			<h4>{post.frontMatter.title}</h4>
 			<div className='date'>Posted on: {parsedDate}</div>
 
@@ -18,7 +17,7 @@ const Post = ({ post }) => {
 					.card {
 						padding: 0 15px;
 						border-radius: 10px;
-						box-shadow: 1px 3px 8px 0 black;
+						box-shadow: 1px 1px 8px 0 black;
             flex: 1 1 40%;
 					}
 					.date {
