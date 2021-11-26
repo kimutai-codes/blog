@@ -42,9 +42,9 @@ I learnt that there are many hormones and chemicals that makes sex addictive alm
 
 ## Healing and overcoming
 
-For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing in Christ *(John 3:16)*.Our father in heaven loves us for just being us..what did we ever do to deserve his love?Nothing..he gives it to us freely
+For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing in Christ *(John 3:16)*.Our father in heaven loves us just for being us..what did we ever do to deserve his love? Nothing..he gives it to us freely.
 
-There is only one way to get filled.To always fell accepted, affirmed and appreciated all the time and that way is Christ.Brethren I would love that you join us in reality.Come and know what God says of you.What he thinks of you.Have him break every chain in your life today.For this to happen, I urge you to take that bold step today to accept Jesus as the Lord and savior of your life..
+There is only one way to get filled, to always fell **accepted**, **affirmed** and **appreciated** all the time and that way is Christ.Then by reading the word we get to know what God says of us.What He thinks of and and much much more.Have him break every chain in your life today.For this to happen, I urge you to take that bold step today to accept Jesus as the Lord and savior of your life..
 
 To receive Christ today, pray this prayer.Believing in your heart that Christ died on the cross for the forgiveness of our sins and on the third day, he rose from the dead
 
