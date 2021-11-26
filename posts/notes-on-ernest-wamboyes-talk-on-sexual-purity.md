@@ -1,5 +1,5 @@
 ---
-title: Looking at the pursuit of sexual purity from different angle
+title: Looking at the pursuit of sexual purity from a different angle
 description: Take away from Ernest Wamboye's talk on sexual purity
 tags:
   - Christ
