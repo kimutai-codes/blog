@@ -54,4 +54,4 @@ Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple
 
 The speaker has more resources on this and you can checkout [his website](https://www.penstrokes.co.ke/author/ernest/).You will be blessed✨
 
-This was part one concerning this topic.Part two will be held in the same place, Deliverance Church Gangundo rd campus on 5th Dec from 3 PM.Pastor T will be the speaker.Purpose to attend. Itakujenga mbaya
+This was part one concerning this topic.Part two will be held in the same place, Deliverance Church Umoja Gangundo rd campus on 5th Dec from 3 PM.Pastor T will be the speaker.Purpose to attend. Itakujenga mbaya
