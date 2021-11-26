@@ -1,7 +1,6 @@
 ---
-title: Looking at the pursuit of sexual purity from a new angle
-description: A talk by Ernest Wamboye.Equipping the a generation with knowledge
-  to live sexually pure lives
+title: Looking at the pursuit of sexual purity from different angle
+description: Take away from Ernest Wamboye's talk on sexual purity
 tags:
   - Christ
   - Healing
