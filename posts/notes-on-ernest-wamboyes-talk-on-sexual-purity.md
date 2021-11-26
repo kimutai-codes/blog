@@ -9,7 +9,7 @@ publishedDate: November 26, 2021 2:55 PM
 date: November 26, 2021 2:55 PM
 thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
 ---
-On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.Beautiful that I had to launch this blog before its date, so you get this message sooner🥳�
+On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.Beautiful that I had to launch this blog before its date, so you get this message sooner🥳🥳
 
 > **Disclaimer**: This is a recollection of what I learnt. I've added my own insights and these are not the original words of the speaker
 
