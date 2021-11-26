@@ -15,7 +15,7 @@ On the 7th of November 2021, my perspective on sexual immorality and the pursuit
 
 He started where I never expected this topic to start.He started by reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
 
-He then taught us that this scripture contains all we need to live a life where we are full of confidence and self esteem.A life which it will be hard to fall into sexual immorality, drug abuse, worthless friendships and many more things youth go through.Our focus however, was sexual purity.He started with the psychological
+He then taught us that this scripture contains all we need to live a life where we are full of confidence and self esteem.A life which it will be hard to fall into sexual immorality, drug abuse, worthless friendships and many more things youth go through.Our focus however, was sexual purity.He started with the psychological reasons why many even Christians still struggle with sexual sin.
 
 In this scripture, God the Father shows **acceptance** to Jesus when he tells him **"You are my Son"**.He **affirms** him by telling saying **"whom I love"** and **appreciates** him when he says **"With whom I am well pleased"**.I don't know if you are blown away by this exposition of the word as I was.Even to this day I still am.Wow🔥🔥
 
@@ -52,3 +52,7 @@ To receive Christ today, pray this prayer.Believing in your heart that Christ di
 Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free *(John 8:32)*. it sanctifies us each time we read *(John 17:17)* , renews our minds and transforms us *(Romans 12:2)*.The word will separate us from any patterns that lead us to sin.
 
 The speaker has more resources on this and you can checkout [his website](https://www.penstrokes.co.ke/author/ernest/).You will be blessed✨
+
+
+
+This was part one concerning this topic.Part two will be held in the same place, Deliverance Church Gangundo rd campus on 5th Dec from 3 PM.Pastor T will be the speaker.Purpose to attend. Itakujenga mbaya
