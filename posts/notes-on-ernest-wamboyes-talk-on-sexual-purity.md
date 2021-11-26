@@ -1,8 +1,10 @@
 ---
 title: Looking at the pursuit of sexual purity from a new angle
-description: Equipping the youth with knowledge to live sexually pure lives
+description: A talk by Ernest Wamboye.Equipping the a generation with knowledge
+  to live sexually pure lives
 tags:
-  - ""
+  - Christ
+  - Healing
 publishedDate: November 26, 2021 2:55 PM
 date: November 26, 2021 2:55 PM
 thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
