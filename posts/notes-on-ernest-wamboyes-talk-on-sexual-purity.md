@@ -50,3 +50,5 @@ To receive Christ today, pray this prayer.Believing in your heart that Christ di
 > Lord Jesus, I need you.Thank you for dying on the cross for my sins.I open the door of my life and receive you as my Savior and Lord.Thank you for forgiving my sins and giving me eternal life; take control of the throne of my life.Make me the kind of person you want me to be.Amen
 
 Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free *(John 8:32)*. it sanctifies us each time we read *(John 17:17)* , renews our minds and transforms us *(Romans 12:2)*.The word will separate us from any patterns that lead us to sin.
+
+The speaker has more resources on this and you can checkout [his website](https://www.penstrokes.co.ke/author/ernest/).You will be blessed✨
