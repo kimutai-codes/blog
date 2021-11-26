@@ -1,18 +1,17 @@
 ---
-title: Notes on Ernest Wamboye's Talk on Sexual Purity
+title: Looking at the pursuit of sexual purity from a new angle
 description: Equipping the youth with knowledge to live sexually pure lives
 tags:
   - ""
-publishedDate: November 17, 2021 7:53 PM
-date: November 17, 2021 7:53 PM
+publishedDate: November 26, 2021 2:55 PM
+date: November 26, 2021 2:55 PM
 thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
 ---
-
 On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.Beautiful that I had to launch this blog before its date, so you get this message sooner🥳🥳
 
 [Ernest Wamboye](https://www.penstrokes.co.ke/author/ernest/) was the speaker of the day.And my my, he truly is blessed.A heaven sent gift to this generation.The way he shed light on this topic was life changing ✨
 
-He started where I never expected this topic to start.He started by reading **Mark 1:11(NIV)**: _And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”_ I almost asked if I was in the right hall😂😂
+He started where I never expected this topic to start.He started by reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
 
 He then taught us that this scripture contains all we need to live a life where we are full of confidence and self esteem.A life which it will be hard to fall into sexual immorality, drug abuse, worthless friendships and many more things youth go through.Our focus however, was sexual purity.He started with the psychological
 
@@ -40,7 +39,7 @@ I learnt that there are many hormones and chemicals that makes sex addictive alm
 
 ## Healing and overcoming
 
-For all in Christ, our father in heaven calls us Son _(John 1:12)_ and through the revelation of his word, he affirms us, and appreciates us.In him we never lack _(Psalm 23:1)_.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing him _(John 3:16)_.Our father in heaven loves us for just being us..what did we ever do to deserve his love?Nothing..he gives it to us freely
+For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing him *(John 3:16)*.Our father in heaven loves us for just being us..what did we ever do to deserve his love?Nothing..he gives it to us freely
 
 There is only one way to get filled.To always fell accepted, affirmed and appreciated all the time and that way is Christ.Brethren I would love that you join us in reality.Come and know what God says of you.What he thinks of you.Have him break every chain in your life today.For this to happen, I urge you to take that bold step today to accept Jesus as the Lord and savior of your life..
 
@@ -48,50 +47,4 @@ To receive Christ today, pray this prayer.Believing in your heart that Christ di
 
 > Lord Jesus, I need you.Thank you for dying on the cross for my sins.I open the door of my life and receive you as my Savior and Lord.Thank you for forgiving my sins and giving me eternal life; take control of the throne of my life.Make me the kind of person you want me to be.Amen
 
-Now then followers of Christ, desire the word _(1 Peter 2:2)_.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free _(John 8:32)_. it sanctifies us each time we read _(John 17:17)_ , renews our minds and transforms us _(Romans 12:2)_.The word will separate us from any patterns that lead us to sin.
-
-## Prayer points for healing
-
-1. My relationship with Jesus.
-
-    1. Am I born again?
-
-    - This kind of healing will be difficult for you if you are not saved.Luckily, you can get saved today.All you need is to believe that Christ died on the cross for the redemption of your sins, and confess it with your mouth
-
-    2. How's my relationship with Christ?
-
-    - If you are a believer, what's your relationship with Christ?
-
-2. People who have hurt me
-
--   here, write a list of all those who have hurt you and then forgive them.completely.Whatever it takes to say "I forgive them", do it.Take your time
--   after forgiving them, pray for them and then bless them
-
-3. Sexual ties
-
--   yes, you need to pray that you are freed from all types of bonds between you and those you've had sex with
-
-4. Those who took advantage of you
-
--   Write those who took advantage of you..sexually, or in whatever way.
--   Forgive them like you did it for the people who hurt you
--   after forgiving them, pray for them too and bless them
-
-5. Repetitive family trends
-
--   pray against repetitive trends in your family
-
-6. Words spoken against me
-
--   pray against terrible words said against you and forgive them all.Pray also that God will teach you what he says about you.He says all the very best things.Desire to know.Pray that you get to know
-
-7. Ungodly beliefs
-   Here, write a list of misconceptions about yourself and God.
-
--   ungodly beliefs about me
--   ungodly beliefs about God
-
-8. Stubborn areas in my life
-
--   Here, list all the areas that you feel stagnant in your life and things that don't seem to change.
--   pray that you are delivered
+Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free *(John 8:32)*. it sanctifies us each time we read *(John 17:17)* , renews our minds and transforms us *(Romans 12:2)*.The word will separate us from any patterns that lead us to sin.
