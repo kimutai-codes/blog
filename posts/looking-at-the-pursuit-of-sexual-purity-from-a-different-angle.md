@@ -24,7 +24,7 @@ In this scripture, God the Father shows **acceptance** to Jesus when he tells hi
 
 As we crave these needs, people come in our lives offering them especially in our teens and we fall for them and submit to their demands as they seem to have everything we need.People doing drugs look cool and warm and when you do it with them, they don't hesitate to tell you "I'm proud of you man".When you consume erotic media, that actor never scorns you.Girl, if you suffer this wound,when and that boy comes and tells you "You are beautiful" or  "I love you" you feel like you have the whole world.You won't even take a second to ask if he understands love or just trapping you.I'm not justifying such behavior, but it really is not our fault.We are just looking to be filled from the wrong place.
 
-He taught us that **our sexual desire is very okay okay** (First day I was convinced to be honest), but it's disastrous when we do not use it not in the confines of marriage, where God intended it to be.Sex outside the confines of marriage brings destruction.It causes things like sexual addiction, sexual abuse,guilt, shame,etc
+He taught us that **our sexual desire is very very okay** (first day I was convinced to be honest), but it's disastrous when we do not use it not in the confines of marriage, where God intended it to be.Sex outside the confines of marriage brings destruction.It causes things like sexual addiction, sexual abuse,guilt, shame,etc
 
 I am glad that you are still reading and that you are now sensitized on this matter.You now understand why you do/did certain things even though you most probably never liked them.You don't have to ask anymore.Let's keep reading
 
