@@ -52,8 +52,10 @@ If you have not yet accepted Christ in your life, you can do that today.To recei
 
 Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free *(John 8:31-32)*. it sanctifies us each time we read *(John 17:17)* , renews our minds and transforms us *(Romans 12:1-2)*.We especially need our minds renewed so as to lead a life that pleases God.That's why we must read the word regularly and seek understanding from the Holy Spirit.The word will separate us from any patterns that lead us to sin.
 
-We also need to get educated on these matters and get more information.People suffer for lack of knowledge.Don't be afraid to seek help.It will be the wisest thing you'll ever do
+We need to get educated on these matters and get more information.People suffer for lack of knowledge.Don't be afraid to seek help.It will be the wisest thing you'll ever do.
 
-The speaker has more resources on this and you can check [his website](https://www.penstrokes.co.ke/author/ernest/) out.You will really be blessed✨
+The speaker has more resources on sexual purity and you can check [his website](https://www.penstrokes.co.ke/author/ernest/) out.You will really be blessed✨
+
+My biggest takeaway from this talk was emotional healing.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.
 
 I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **the plus one experience**.hey are really beneficial to the youth.This was the first part of this discussion and the second will be held in the same place, **Deliverance Church Umoja Gangundo rd campus** on **5th Dec** from 3 PM.Pastor T will be the speaker.Purpose to attend.Itakujenga mbaya
