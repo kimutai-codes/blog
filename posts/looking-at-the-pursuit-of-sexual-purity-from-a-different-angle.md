@@ -8,11 +8,11 @@ publishedDate: November 26, 2021 2:55 PM
 date: November 26, 2021 2:55 PM
 thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
 ---
-> **Disclaimer**: This is but a recollection of what I learnt. I've added my own insights and these are **not the original words of the speaker**.
-
 On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.Beautiful that I had to launch this blog before its due date so that you get this message sooner🥳🥳
 
 [Ernest Wamboye](https://www.penstrokes.co.ke/author/ernest/) was the speaker of the day.And my my, he truly is blessed.A heaven sent gift to this generation.The way he shed light on this topic was life changing ✨
+
+> **Disclaimer**: This is but a recollection of what I learnt. I've added my own insights and these are **not the original words of the speaker**.
 
 He started where I never expected this topic to start.He started by reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
 
@@ -52,6 +52,6 @@ If you have not yet accepted Christ in your life, you can do that today.To recei
 
 Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple, abide in the Word of God..it will teach you the truth and the truth shall set you free *(John 8:32)*. it sanctifies us each time we read *(John 17:17)* , renews our minds and transforms us *(Romans 12:2)*.The word will separate us from any patterns that lead us to sin.
 
-The speaker has more resources on this and you can checkout [his website](https://www.penstrokes.co.ke/author/ernest/).You will be blessed✨
+The speaker has more resources on this and you can checkout [his website](https://www.penstrokes.co.ke/author/ernest/).You will really be blessed✨
 
 This was part one concerning this topic.Part two will be held in the same place, Deliverance Church Umoja Gangundo rd campus on 5th Dec from 3 PM.Pastor T will be the speaker.Purpose to attend. Itakujenga mbaya
