@@ -40,9 +40,11 @@ I learnt that **our sexual desire is very very okay** (first day I was convinced
 
 ## Healing and overcoming
 
-For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing in Christ *(John 3:16)*.Our father in heaven loves us just for being us..what did we ever do to deserve his love? Nothing..he gives it to us freely.
+The speaker also took us through a session of healing where we forgave those who have wronged us, those who took advantage of us and prayed against negative words spoken against us and also prayed to be released from sexual ties and much more.I cannot take you though this healing process myself, but at least I have sensitized you on this matter and sparked you to seek to be healed of your wounds.
 
 There is only one way to get filled, to always fell **accepted**, **affirmed** and **appreciated** all the time and that way is Christ.Then by reading the word we get to know what God says of us.What He thinks of and and much much more.Have him break every chain in your life today.
+
+For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing in Christ *(John 3:16)*.Our father in heaven loves us just for being us..what did we ever do to deserve his love? Nothing..he gives it to us freely.
 
 How do we live sexually pure lives? The sure answer is Christ and seeking to understand the word that will truly set us free..*John 8:31-32*
 
@@ -56,6 +58,6 @@ We need to get educated on these matters and get more information.People suffer 
 
 The speaker has more resources on sexual purity and you can check [his website](https://www.penstrokes.co.ke/author/ernest/) out.You will really be blessed✨
 
-My biggest takeaway from this talk was emotional healing.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.
+My biggest takeaway from this talk was that our wounds can cause many problems in our lives even without our knowledge.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.I'll be posting on the same soon too and I do hope that you start searching yourself for wounds too
 
 I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **the plus one experience**.hey are really beneficial to the youth.This was the first part of this discussion and the second will be held in the same place, **Deliverance Church Umoja Gangundo rd campus** on **5th Dec** from 3 PM.Pastor T will be the speaker.Purpose to attend.Itakujenga mbaya
