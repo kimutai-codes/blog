@@ -8,6 +8,8 @@ publishedDate: November 26, 2021 2:55 PM
 date: November 26, 2021 2:55 PM
 thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
 ---
+> Sexual sin can be brought about by unhealed emotional wounds?😲
+
 On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.I had to launch this blog before its due date so that you get this message too🥳🥳
 
 [Ernest Wamboye](https://www.penstrokes.co.ke/author/ernest/) was the speaker of the day.And my my, he truly is blessed.A heaven sent gift to this generation.The way he shed light on this topic was life changing ✨
@@ -58,6 +60,6 @@ I've learnt that we need to get educated on these matters and get more informati
 
 The speaker has more resources on sexual purity and you can check [his website](https://www.penstrokes.co.ke/author/ernest/) out.You will really be blessed✨
 
-My biggest takeaway from this talk was that our wounds can cause a ton of problems in our lives even without our knowledge.I'm so happy to know they exist now.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.I'll be posting on the same soon too and I do hope that you start searching yourself for wounds too
+My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge including sexual sin.I'm so happy to know they exist now.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.I'll be posting on the same soon too and I do hope that you start examining yourself
 
 I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **the plus one experience**.hey are really beneficial to the youth.This was the first part of this discussion and the second will be held in the same place, **Deliverance Church Umoja Gangundo rd campus** on **5th Dec** from 3 PM.Pastor T will be the speaker.Purpose to attend.Itakujenga mbaya
