@@ -44,9 +44,9 @@ I learnt that there are many hormones and chemicals that makes sex addictive alm
 
 For all in Christ, our father in heaven calls us Son *(John 1:12)* and through the revelation of his word, he affirms us, and appreciates us.In him we never lack *(Psalm 23:1)*.He calls us his own.He really loves us..so much that he sent his only son to die on the cross so as you and I would be connected back to him, by believing in Christ *(John 3:16)*.Our father in heaven loves us just for being us..what did we ever do to deserve his love? Nothing..he gives it to us freely.
 
-There is only one way to get filled, to always fell **accepted**, **affirmed** and **appreciated** all the time and that way is Christ.Then by reading the word we get to know what God says of us.What He thinks of and and much much more.Have him break every chain in your life today.For this to happen, I urge you to take that bold step today to accept Jesus as the Lord and savior of your life..
+There is only one way to get filled, to always fell **accepted**, **affirmed** and **appreciated** all the time and that way is Christ.Then by reading the word we get to know what God says of us.What He thinks of and and much much more.Have him break every chain in your life today
 
-To receive Christ today, pray this prayer.Believing in your heart that Christ died on the cross for the forgiveness of our sins and on the third day, he rose from the dead
+If you have not yet accepted Christ in your life, you can do that today.To receive Christ, pray this prayer, believing in your heart that Christ died on the cross for the forgiveness of our sins and on the third day, he rose from the dead
 
 > Lord Jesus, I need you.Thank you for dying on the cross for my sins.I open the door of my life and receive you as my Savior and Lord.Thank you for forgiving my sins and giving me eternal life; take control of the throne of my life.Make me the kind of person you want me to be.Amen
 
