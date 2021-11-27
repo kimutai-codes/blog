@@ -10,13 +10,13 @@ thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.j
 ---
 > Sexual sin can be brought about by unhealed emotional wounds?😲
 
-On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.**Healing emotional wounds can get us closer to the goal of raising a sexual-purity oriented generation**.I had to launch this blog early so that you can get educated on this too🥳🥳
+On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.**Healing emotional wounds can get us closer to the goal of having a sexual-purity oriented generation**.I had to launch this blog early so that you can get educated on this too🥳🥳
 
 [Ernest Wamboye](https://www.penstrokes.co.ke/author/ernest/) was the speaker of the day.And my my, he truly is blessed.A heaven sent gift to this generation.The way he shed light on this topic was life changing ✨
 
 > **Disclaimer**: This is but a recollection of what I learnt. I've added my own insights and these are **not the original words of the speaker**.
 
-He started where I never expected he would.He started by reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
+He started where I never expected he would...reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
 
 In this scripture, God the Father shows **acceptance** to Jesus when he tells him **"You are my Son"**.He **affirms** him saying **"whom I love"** and **appreciates** him when he says **"With whom I am well pleased"**...I don't know if you are blown away by this exposition of the word as I was.I still am to this day.Wow🔥🔥
 
