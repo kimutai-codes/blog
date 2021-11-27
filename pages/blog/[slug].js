@@ -100,16 +100,9 @@ const Post = ({ htmlString, data, parsedDate }) => {
           font-style: italic;
           margin-bottom: 25px;
         }
-        {/* .blogHeader h1{
-          margin: 0;
-        } */}
         .blogContent{
           margin-top: 3rem;
         }
-        {/* @media (max-width:700){
-          .blogHeader{
-            margin: initial;
-          } */}
         }
       `}</style>
 		</>
