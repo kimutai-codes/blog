@@ -60,6 +60,8 @@ I've learnt that we need to get educated on these matters and get more informati
 
 The speaker has more resources on sexual purity (awesome books and blog posts) and you can check [](https://www.penstrokes.co.ke/author/ernest/)them out on [his website](https://www.penstrokes.co.ke/author/ernest/).You will really be blessed✨
 
-My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge including sexual sin.I'm so happy to know they exist now.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.I'll be posting on the same soon too and I do hope that you start examining yourself
+My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge and sexual sin is one of them.I'm so happy to know they exist now.I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.This talked has set in motion my healing journey. I tell you it is beautiful...I'll be posting on the same soon and I do hope that you start examining yourself and get started on yours
 
-I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **the plus one experience**.hey are really beneficial to the youth.This was the first part of this discussion and the second will be held in the same place, **Deliverance Church Umoja Gangundo rd campus** on **5th Dec** from 3 PM.Pastor T will be the speaker.Purpose to attend.Itakujenga mbaya
+I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **The Plus One Experience**.hey are really beneficial to the youth.
+
+This was the first part of this discussion and the second will be held at the same place, **Deliverance Church Umoja Gangundo rd campus** on **5th Dec** from 3 PM.Pastor T will be the speaker.Purpose to attend.Itakujenga mbaya
