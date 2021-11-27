@@ -1,6 +1,6 @@
 ---
 title: Looking at sexual immorality from a psychological perspective
-description: Take away from Ernest Wamboye's talk on sexual purity
+description: My take away from Ernest Wamboye's talk on sexual purity
 tags:
   - Christ
   - Healing
