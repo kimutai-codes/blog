@@ -60,7 +60,7 @@ I've learnt that we need to get educated on these matters and get more informati
 
 The speaker has more resources on sexual purity (awesome books and blog posts) and you can check [](https://www.penstrokes.co.ke/author/ernest/)them out on [his website](https://www.penstrokes.co.ke/author/ernest/).You will really be blessed✨
 
-My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge and sexual sin is one of them.I'm so happy to know they exist now.I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.This talk has set in motion my healing journey as it is affecting other areas of my life.I'll be posting on the same soon and I do hope that you start examining yourself and get started on yours too
+My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge and sexual sin is one of them.I'm so happy to know they exist now.I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.This talk has set in motion my healing journey.I'll be posting on the same soon and I do hope that you start examining yourself and get started on yours too
 
 I want to thank [Deliverance Church Umoja](https://dcumoja.org/) for organizing such events as **The Plus One Experience**.hey are really beneficial to the youth.
 
