@@ -10,7 +10,7 @@ thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.j
 ---
 > Sexual sin can be brought about by unhealed emotional wounds?😲
 
-On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.I had to launch this blog before its due date so that you get this message too🥳🥳
+On the 7th of November 2021, my perspective on sexual immorality and the pursuit of sexual purity shifted for good..I see it now from a different angle and it's beautiful.**Healing emotional wounds can get us closer to the goal of raising a sexual-purity oriented generation**.I had to launch this blog early so that you can get educated on this too🥳🥳
 
 [Ernest Wamboye](https://www.penstrokes.co.ke/author/ernest/) was the speaker of the day.And my my, he truly is blessed.A heaven sent gift to this generation.The way he shed light on this topic was life changing ✨
 
@@ -18,15 +18,15 @@ On the 7th of November 2021, my perspective on sexual immorality and the pursuit
 
 He started where I never expected he would.He started by reading **Mark 1:11(NIV)**: *And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”* I almost asked if I was in the right hall😂😂
 
-He then taught us that this scripture contains all we need to live a life where we are content, full of confidence and self-esteem.A life which it will be hard to fall into sexual immorality, drug abuse, worthless friendships and many more things youth go through.Our focus however, was sexual purity.He started with the psychological reasons why many, including Christians, still struggle with sexual sin.
-
 In this scripture, God the Father shows **acceptance** to Jesus when he tells him **"You are my Son"**.He **affirms** him saying **"whom I love"** and **appreciates** him when he says **"With whom I am well pleased"**...I don't know if you are blown away by this exposition of the word as I was.I still am to this day.Wow🔥🔥
 
-**Acceptance**, **affirmation** and **appreciation** are core psychological needs.Everyone needs them and always craves them.They should primarily come from our fathers (or guardian father figure).If our fathers do not give them to us, we face a lot of issues without knowing where they stem from.Without them we feel the opposite.**Instead of feeling accepted**, **we fell rejected**.**Instead of feeling affirmed**, **we feel scorned** and **instead of feeling appreciated, we feel we are taken for granted**.Without them we walk around with what is called a [father wound](https://danielpassini.org/father-wound/).A feeling of emptiness, and we find ourselves looking for acceptance, affirmation and appreciation from anywhere and anyone.
+The speaker taught us that this scripture contains all we need to live a life where we are content, full of confidence and self-esteem.A life which it will be hard to fall into sexual immorality, drug abuse, worthless friendships and many more things youth go through.Our focus however, was sexual purity.He started with the psychological reasons why many, including Christians, still struggle with sexual sin.
+
+**Acceptance**, **affirmation** and **appreciation** are core psychological needs.Everyone needs them and always craves them.They should primarily come from our fathers (or guardian father figure).If our fathers do not give them to us, we face a lot of issues without knowing where they stem from.Without them we feel the opposite.**Instead of feeling accepted**, **we fell rejected**.**Instead of feeling affirmed**, **we feel scorned** and **instead of feeling appreciated, we feel we are taken for granted**.Without them we walk around with what is called a [father wound](https://danielpassini.org/father-wound/).A deep emotional wound that causes feelings of emptiness, and we find ourselves looking for acceptance, affirmation and appreciation from anywhere and anyone.
 
 As we crave these needs, people come in our lives offering them especially in our teens and we fall for them and submit to their demands as they seem to have everything we need.People doing drugs look cool and warm and when you do drugs with them.They don't hesitate to tell you "I'm proud of you man".Also, when you consume erotic media, that actor never scorns you.Girl, if you suffer this wound,when and that boy comes and tells you "You are beautiful" or  "I love you" you feel like you have the whole world.You won't even take a second to ask question their intentions..(despite it being almost normal these days).I'm not justifying any of these behaviors, but it really is not our fault.We are just looking to be filled from the wrong place.
 
-The speaker taught us the science of sexual addiction.This was also eye opening.
+The speaker also educated us on the science of sexual addiction.This was also eye opening.
 
 ## The science of sexual addiction; especially when it's illicit
 
@@ -58,7 +58,7 @@ Now then followers of Christ, desire the word *(1 Peter 2:2)*.As a true disciple
 
 I've learnt that we need to get educated on these matters and get more information.People suffer for lack of knowledge.Don't be afraid to seek help.It will be the wisest thing you'll ever do.
 
-The speaker has more resources on sexual purity and you can check [his website](https://www.penstrokes.co.ke/author/ernest/) out.You will really be blessed✨
+The speaker has more resources on sexual purity (awesome books and blog posts) and you can check [](https://www.penstrokes.co.ke/author/ernest/)them out on [his website](https://www.penstrokes.co.ke/author/ernest/).You will really be blessed✨
 
 My biggest takeaway from this talk was that **our** **wounds can cause a ton of problems** in our lives even without our knowledge including sexual sin.I'm so happy to know they exist now.Brothers and sisters I can tell you for sure this is what the Lord is communicating to me.Prior to this talk, I did not know such wounds exist and almost every fellowship I've gone to this month has touched on it.I'll be posting on the same soon too and I do hope that you start examining yourself
 
