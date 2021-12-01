@@ -7,6 +7,9 @@ const Navbar = () => {
 	const onClickHandler = () => {
 		setIsActive(!isActive);
 	};
+  const onClickLink=()=>{
+    setTimeout(()=>{setIsActive(!isActive)},500)
+  }
 	return (
 		<>
 			<nav className='navbar'>
@@ -34,6 +37,7 @@ const Navbar = () => {
 					className={`navbar-links ${
 						isActive ? 'navbar-links-active' : ''
 					}`}
+					onClick={onClickLink}
 				>
 					<ul>
 						{/* <li> */}
