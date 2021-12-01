@@ -17,7 +17,7 @@ const Navbar = () => {
 								src='/images/growth.png'
 								width='30'
 								height='30'
-						/>
+							/>
 						</a>
 					</Link>
 				</div>
@@ -97,13 +97,8 @@ const Navbar = () => {
 					}
 					.toggle-button {
 						position: absolute;
-						top: 0.75rem;
 						right: 1rem;
 						display: none;
-						flex-direction: column;
-						justify-content: space-between;
-						width: 30px;
-						height: 21px;
 					}
 					.toggle-button .bar {
 						height: 3px;
@@ -130,7 +125,7 @@ const Navbar = () => {
 						}
 						nav {
 							max-width: 95%;
-							margin: 0 auto;
+							margin: 8px auto;
 							flex-direction: column;
 							align-items: flex-start;
 						}
