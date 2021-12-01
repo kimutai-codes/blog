@@ -17,16 +17,17 @@ const Navbar = () => {
 								src='/images/growth.png'
 								width='30'
 								height='30'
-							/>
+						/>
 						</a>
 					</Link>
 				</div>
 
 				<div className='toggle-button' onClick={onClickHandler}>
-					<img src='/images/hamburger-menu-svgrepo-com.svg' />
-					{/* <span className="bar"></span>
-          <span className="bar"></span>
-          <span className="bar"></span> */}
+					<Image
+						src='/images/hamburger-menu-svgrepo-com.svg'
+						width='30'
+						height='30'
+					/>
 				</div>
 
 				<div
