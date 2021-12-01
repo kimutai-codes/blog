@@ -97,13 +97,8 @@ const Navbar = () => {
 					}
 					.toggle-button {
 						position: absolute;
-						top: 0.75rem;
 						right: 1rem;
 						display: none;
-						flex-direction: column;
-						justify-content: space-between;
-						width: 30px;
-						height: 21px;
 					}
 					.toggle-button .bar {
 						height: 3px;
