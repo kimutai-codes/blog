@@ -17,7 +17,7 @@ const Navbar = () => {
 								src='/images/growth.png'
 								width='30'
 								height='30'
-						/>
+							/>
 						</a>
 					</Link>
 				</div>
@@ -125,7 +125,7 @@ const Navbar = () => {
 						}
 						nav {
 							max-width: 95%;
-							margin: 0 auto;
+							margin: 8px auto;
 							flex-direction: column;
 							align-items: flex-start;
 						}
