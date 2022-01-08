@@ -19,7 +19,8 @@ We Christians have varied views and understanding of certain things, music being
 1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to the worldly things.Not only that, but this kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good..It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting that.This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.Do you see the danger already? if it is not edifying, is it worth it?
 2. It is deeply **affiliated with the one church movement**(This will need its own article)
 3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
-4. It mostly spreads **misleading doctrine(heresies)** which is risky esp for young Christians.No wonder we see many composers confused on their faith.We need to be careful what we consume from men.
+4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
+5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music and before you know it
 
 ## Seeking Alternatives
 
