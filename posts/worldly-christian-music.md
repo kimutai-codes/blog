@@ -52,6 +52,6 @@ The truth that I have lately come to cherish is that, God will never leave us - 
 
 **What I'm currently learning on music**
 
-1. **Electronic distortion** from musical instruments and style( have you noticed the way the instrument players play the instruments kinda in an incremental way during worship? and then people say it is the power of God in the atmospehere? forgive my ignorance but also be glad with me a brethren is setting out to know the truth)
+1. **Electronic distortion** from musical instruments and style( have you noticed the way the instrument players play the instruments kinda in an incremental way during worship? and then people say it is the power of God in the atmosphere? bare with my ignorance but also be glad that I'm setting out to know the truth)
 2. Origins of music
 3. Differentiating between worldly and sacred melodies
