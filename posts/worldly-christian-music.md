@@ -12,7 +12,7 @@ Bruuuh! there is a lot to music.It is a slippery slope if you are not watchful o
 
 CCM is the music that has recently found its way into church.It sounds like worldly music(dancehall, hiphop and rock music).It mostly is christianized  secular music - secular music with a little christian vocabulary or secular beats with christian lyrics.It is "danceable" and entertaining(even playable in clubs).It sounds great to the flesh.The music that I used to listen to a few weeks ago.
 
-This type of music sounds really good and familiar to most young believers,soft and mostly has watered down gospel.That's how a baby christian and x rapper fell into.Those minutes on the picture above are mostly the CCM  I listened to between April and Nov 2021 alone😲
+This type of music sounds really good and familiar to most young believers,sometimes it has watered down doctrine and is soft .That's what a baby christian and x-rapper fell into.Those minutes on the picture above are mostly the CCM  I listened to between just April and Nov 2021😲
 
 CCM  is not music authored recently, but rather, a style/ culture of christian music.You'll be surprised CCM dates way back and is  gradually being accepted in most churches.
 
