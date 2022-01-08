@@ -20,7 +20,7 @@ We Christians have varied views and understanding of certain things, music being
 2. It is deeply **affiliated with the one church movement**(This will need its own article)
 3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
 4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
-5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music and before you know it
+5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music, you search for a songs with stronger beat and before you know it, you're dancing to dancehall and rapping to cecular music -  this has happened to me actually
 
 ## Seeking Alternatives
 
@@ -41,7 +41,7 @@ As you set out to evaluate your music, start with these;
 
 I urge all brethren to be sensitive to these matters.There are many false doctrines and snares even in the church.Music might be the biggest weapon of the enemy against us.
 
-The truth that I have lately come to cherish is that, God will never leave us.He will never let anyone take us away from his hands.Nothing can separate us from his love and he will never let us fall.Not even this music will ensnare us - seek to be safe though as it can affect us  and deny us joy in Christ
+The truth that I have lately come to cherish is that, God will never leave us - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and he will never let us fall *(Jude 1:24)*.Not even this music will drown us  - seek to be safe though as it can affect us  and deny us joy in Christ
 
 ## Resources
 
