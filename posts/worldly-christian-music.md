@@ -14,7 +14,7 @@ CCM is the music that has recently found its way into church.It sounds like worl
 
 This type of music sounds really good and familiar to most young believers,sometimes it has watered down doctrine and is soft .That's what a baby christian and x-rapper fell into.Those minutes on the picture above are mostly the CCM  I listened to between just April and Nov 2021😲
 
-CCM  is not music authored recently, but rather, a style/ culture of christian music...They call it "modern"😂😂.You'll be surprised CCM dates way back and is  gradually being accepted in most churches.
+CCM  is not music authored recently, but rather, a style/culture of christian music...they call it "modern"😂😂.You'll be surprised CCM dates way back and is  gradually being accepted in most churches.
 
 We Christians have varied views and understanding of certain things, music being one of them.I do not want to hurt your freedom in Christ and neither I do not want to dictate to you what is right or wrong.I do not want to play the Holy Spirit in you (as [Allen Parr](https://www.youtube.com/user/thebeatagp) likes to say).Having said this, I'll just give you a few pointers as to why you should be careful with CCM
 
