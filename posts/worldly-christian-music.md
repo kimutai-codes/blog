@@ -26,7 +26,7 @@ We Christians have varied views and understanding of certain things, music being
 
 Question: why are so many CCM artists leaving the faith?
 
-## Seeking Alternatives
+## Seeking alternatives
 
 Three weeks ago, my taste for music drastically changed.I found my favorite upbeat and trendy music utterly repulsive that I quit music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue, as I was chatting with brother of mine,  he told me that there is something terribly wrong with Christian music.This is when I officially started being cautious of it.Curiosity hit and I started researching music and maan ain't its skeletons ugly!! I even went without music the entire time
 
@@ -39,13 +39,13 @@ I thank God for the amount of information that we can access in this generation 
 As you set out to evaluate your music, start with these;
 
 1. Ask God for guidance
-2. Avoid listening to music that your conscience refutes
-3. Read the word, so that you can be discerning enough and not be drowned in heresies (in music and even preaching)
+2. Read the word, so that you can be discerning enough and not be drowned in heresies (in music and even preaching)
+3. Avoid listening to music that your conscience refutes
 4. Learn to distinguish worldly melodies from sacred melodies (the beats) - I'll write more on this in articles to come
 
-I urge all brethren to be sensitive to these matters.There are many false doctrines even in the church and music might be the biggest vessel for spreading them.What we need is a knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine
+I urge all brethren to be sensitive to these matters.There are many false doctrines even in the church and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.
 
-The truth that I have lately come to cherish is that, God will never leave us - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and he will never let us fall *(Jude 1:24)*.Not even this music will drown us  - however, lets seek to be safe as it can affect us  and deny us joy in Christ
+My joy is in this truth, God will never leave His children - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and He will never let us fall *(Jude 1:24)*.Not even this music will drown us  - however, let us be cautious as it can affect us  and deny us joy in Christ
 
 ## Resources
 
