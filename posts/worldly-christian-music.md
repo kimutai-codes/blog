@@ -21,7 +21,7 @@ We Christians have varied views and understanding of certain things, music being
 3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
 4. It mostly spreads **misleading doctrine(heresies)** which is risky esp for young Christians.No wonder we see many composers confused on their faith.We need to be careful what we consume from men.
 
-# Seeking Alternatives
+## Seeking Alternatives
 
 Three weeks ago, my taste for music drastically changed.I found the upbeat, trendy music utterly repulsive that I quit music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue a brother of mine told me that there is something terribly wrong with christian music.This is when everything started to connect.Curiosity hit and I started researching this kind of music and maan ain't its skeletons ugly!! I even went without music the entire time
 
