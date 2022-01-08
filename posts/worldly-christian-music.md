@@ -10,18 +10,19 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 Bruuuh! there is a lot to music.It is a slippery slope.Let this be a precursor of our future discussions on it
 
-CCM is the music that has recently found its way into church.It sounds like worldly music.It is actually secular melodies with christian vocabulary.It is "danceable" and entertaining(even playable in clubs).It sounds great to the ear and exactly what I listened to for six months(as the screenshot above shows)
+CCM is the music that has recently found its way into church.It sounds like worldly music.It is  Christianized  secular music with christian vocabulary.It is "danceable" and entertaining(even playable in clubs).It sounds great to the ear.It is what I listened to for six months(as the screenshot above shows)
 
 CCM  however is not necessarily music authored recently, but rather, a style/ culture of christian music.You'll be surprised CCM dates way back and now is gradually being accepted in churches
 
 We Christians have varied views and understanding of certain things, music being one of them.For I do not want to hurt your freedom in Christ, I do not want to tell you this is right and that is wrong.I do not want to play the Holy Spirit in you (as [Allen Parr](https://www.youtube.com/user/thebeatagp) likes to say).Therefore, these are the things you should know about CCM
 
-1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to the worldly things.Not only that, but this kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good..It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting that.This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.Do you see the danger already? if it is not edifying, is it worth it?
+1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to the worldly things.Not only that, but this kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good..It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting that.This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.Do you see the danger already? If it is not edifying, is it worth it?
 2. It is deeply **affiliated with the one church movement**(This will need its own article)
 3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
-4. It mostly spreads **misleading doctrine(heresies)** which is risky esp for young Christians.No wonder we see many composers confused on their faith.We need to be careful what we consume from men.
+4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
+5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music, you search for a songs with stronger beat and before you know it, you're dancing to dancehall and rapping to cecular music -  this has happened to me actually
 
-# Seeking Alternatives
+## Seeking Alternatives
 
 Three weeks ago, my taste for music drastically changed.I found the upbeat, trendy music utterly repulsive that I quit music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue a brother of mine told me that there is something terribly wrong with christian music.This is when everything started to connect.Curiosity hit and I started researching this kind of music and maan ain't its skeletons ugly!! I even went without music the entire time
 
@@ -40,7 +41,7 @@ As you set out to evaluate your music, start with these;
 
 I urge all brethren to be sensitive to these matters.There are many false doctrines and snares even in the church.Music might be the biggest weapon of the enemy against us.
 
-The truth that I have lately come to cherish is that, God will never leave us.He will never let anyone take us away from his hands.Nothing can separate us from his love and he will never let us fall.Not even this music will ensnare us - seek to be safe though as it can affect us  and deny us joy in Christ
+The truth that I have lately come to cherish is that, God will never leave us - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and he will never let us fall *(Jude 1:24)*.Not even this music will drown us  - seek to be safe though as it can affect us  and deny us joy in Christ
 
 ## Resources
 
