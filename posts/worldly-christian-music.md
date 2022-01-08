@@ -25,8 +25,6 @@ We Christians have varied views and understanding of certain things, music being
 
 Three weeks ago, my taste for music drastically changed.I found the upbeat, trendy music utterly repulsive that I quit music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue a brother of mine told me that there is something terribly wrong with christian music.This is when everything started to connect.Curiosity hit and I started researching this kind of music and maan ain't its skeletons ugly!! I even went without music the entire time
 
-There is a lot to this type of music and to me, it is more harmful than good.You will need to research it on your own though...trust me you will need to.Even more, you will need understanding of the word and the wisdom and courage to leave certain schools of thought
-
 Those three weeks were not easy..I can live without music, but i felt there was something missing.Music for me is great when I'm up and about and working.It is handy when you do not have the bandwidth or time to consume a sermon or audio bible.I love music for its ability to keep me focused on Jesus in my busy days.No wonder those three weeks were a struggle!
 
 I thank God for the amount of information that we can access in this generation and especially for brethren who publish content on platforms such as YouTube and blogs.The resources that helped me find alternative, sound christian music are [Allen Parr's video](https://www.youtube.com/watch?v=wi4RADE4zL0) on CCM and [Colin Miller's video on alternatives](https://www.youtube.com/watch?v=iI1ZApuG2Io)
