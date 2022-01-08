@@ -10,7 +10,7 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 Bruuuh! there is a lot to music.It is a slippery slope if you are not watchful of the music you consume.Let this be a precursor of our future discussions on it
 
-CCM is the music that has recently found its way into church.It sounds like worldly music.It is   mostly christianized  secular music - secular music with a little christian vocabulary.It is "danceable" and entertaining(even playable in clubs).It sounds great to the flesh.The music that I used to listen to a few weeks ago.
+CCM is the music that has recently found its way into church.It sounds like worldly music(dancehall, hiphop and rock music).It mostly is christianized  secular music - secular music with a little christian vocabulary or secular beats with christian lyrics.It is "danceable" and entertaining(even playable in clubs).It sounds great to the flesh.The music that I used to listen to a few weeks ago.
 
 This type of music sounds really good.Accomodative, soft, aah what could a baby christian and x rapper want?Those minutes on the picture above are mostly CCM between April and Nov 2021 alone😲
 
@@ -51,7 +51,7 @@ The truth that I have lately come to cherish is that, God will never leave us - 
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
 2. "Third Adam" - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
-3. Booklet on christian worship music - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
+3. Booklet on christian worship music; does the way I say I love you matter? - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
 
