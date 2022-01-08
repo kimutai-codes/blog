@@ -31,7 +31,7 @@ I thank God for the amount of information that we can access in this generation 
 
 ## Setting out
 
-As you set out to investigate your music, just remember this;
+As you set out to evaluate your music, start with these;
 
 1. Ask God for guidance
 2. Don't listen to music that your conscience refutes
