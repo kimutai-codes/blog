@@ -24,7 +24,7 @@ We Christians have varied views and understanding of certain things, music being
 4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
 5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music, you search for a songs with stronger beat and before you know it, you're dancing to dancehall and rapping to cecular music -  this has happened to me actually
 
-Question; why are so many CCM artists leaving the faith?
+Question: why are so many CCM artists leaving the faith?
 
 ## Seeking Alternatives
 
