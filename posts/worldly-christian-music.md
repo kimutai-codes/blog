@@ -3,7 +3,7 @@ title: Worldly Christian Music
 description: A case on Contemporary Christian Music(CCM)
 tags:
   - Music
-  - Heresy
+  - Faith
 publishedDate: January 8, 2022 1:20 PM
 date: January 8, 2022 1:20 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
