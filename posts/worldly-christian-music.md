@@ -14,7 +14,7 @@ CCM  is not music authored recently, but rather, a style/culture of Christian mu
 
 **This music is dangerous**
 
-It has demonic roots for the most part and it's fruit is ugly and risky.
+It has demonic roots for the most part.
 
 These are the reasons why it should be avoided.
 
@@ -24,7 +24,7 @@ These are the reasons why it should be avoided.
 4. **It is worldly music** not only in its style of beats, but also in the fact that it gives attention to worldly things.This kind of music mostly focuses on the creature instead of the creator.
 5. It returns or introduces believers to the secular world.The more you listen to it the more your taste for worldly music grows.
 
-Question: why are so many CCM artists and (even churches) leaving the faith? I can boldly say most were never in the faith and I hope they turn to the faith.These are the result of gospel no longer being preached.
+ It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never in the faith and I hope they turn to the faith.These are the results of watered down gospel and unwatched doctrine.
 
 ## Finding good christian music
 
