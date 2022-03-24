@@ -34,7 +34,7 @@ These are the reasons why it should be avoided.
 
 This video is the best resource I have found for this.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
 
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1466" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What about music for entertainment? 
 
