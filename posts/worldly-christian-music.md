@@ -10,7 +10,7 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 (testimony of how I found it and how it was and how i came to quit it)
 
-Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is the familiar Christian rock, rap, etc...worldly music with Christian labels.
+Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is the familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
 
 CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
 
@@ -34,7 +34,7 @@ These are the reasons why it should be avoided.
 
 This video is the best resource I have found for this.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
 
-<iframe width="1466" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What about music for entertainment? 
 
