@@ -14,7 +14,7 @@ CCM  is not music authored recently, but rather, a style/culture of Christian mu
 
 **This music is dangerous**
 
-It has demonic roots fr the most part and it's fruit is ugly and risky.
+It has demonic roots for the most part and it's fruit is ugly and risky.
 
 These are the reasons why it should be avoided.
 
@@ -44,9 +44,9 @@ Let's be keen in matters God.There's a ton of false doctrine and music has prove
 
 I recommend classical hymns.It may be weird at first, but if you love doctrine, you'll be right at home and i doubt you'll ever leave.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-I also have a few that I've tried and tested for myself and you I think you should do the same too
+I also have a few that I've tried and tested for myself and you I think you should do the same too.
 
 ## Resources for further study
 
