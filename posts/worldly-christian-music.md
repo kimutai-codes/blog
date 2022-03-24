@@ -42,11 +42,13 @@ Let's be keen in matters God.There's a ton of false doctrine and music has prove
 
 ## What I listen to now
 
-I recommend classical hymns.It may be weird at first, but if you love doctrine, you'll be right at home and i doubt you'll ever leave.
+After searching so long for classical gospel music, I found really good music.Geat music and very rich lyrics.
+
+I did not find it weird.I guess it was because i had searched for a long time and I knew it was the best option to keep listening to music. I've linked one of my favorite playlists below to get you started.Enjoy,
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-I also have a few that I've tried and tested for myself and you I think you should do the same too.
+I also have a few offline East African Gospel songs.Most of these are from my childhood.
 
 ## Resources for further study
 
