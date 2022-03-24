@@ -10,11 +10,11 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that Christian rock, rock, etc...worldly music with Christian labels.
 
-\[spencer smith's quote on musicians' doctrine]
-
 CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
 
 **This music is dangerous**
+
+It has demonic roots fr the most part and it's fruit is ugly and risky.
 
 These are the reasons why it should be avoided.
 
@@ -27,6 +27,14 @@ These are the reasons why it should be avoided.
 
 
 Question: why are so many CCM artists and (even churches) leaving the faith? I can boldly say most were never in the faith and I hope they turn to the faith.These are the result of gospel no longer being preached.
+
+## Finding good christian music
+
+> \[spencer smith's quote on musicians' doctrine]
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 ## Seeking alternatives
 
