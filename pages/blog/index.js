@@ -14,7 +14,6 @@ const Home = ({ posts }) => {
 				<title>Blog Repository | Allan Kimutai</title>
 			</Head>
 			<h1>Blog Archive ✍🏾</h1>
-      <blockquote>I am a story teller😅...but because of the dwindling attention span of mankind, I'll keep the articles as brief as possible.If you see a long article, know all of it is relevant and that is the shortest it could be.Enjoy,🤗</blockquote>
 
 			<div className='posts'>
 				{posts.map((post, index) => (
