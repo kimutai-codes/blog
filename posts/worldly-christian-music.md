@@ -42,8 +42,6 @@ Let's be keen in matters God.There's a ton of false doctrine and music has prove
 
 ## What I now listen to
 
-Music is a daily part of most of us.It just has to be there.But it gets hard when the only music you could palete (due to ignorance) becomes repulsive? I quit music for like three weeks then started looking for a "fix"..or can you stay without music? It has taken a lot of trial and error but I finally found it
-
 I recommend classical hymns.It may be weird at first, but if you love doctrine, you'll be right at home and i doubt you'll ever leave.
 
 I also have a few that I've tried and tested for myself and you I think you should do the same too
