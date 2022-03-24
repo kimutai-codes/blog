@@ -24,34 +24,31 @@ These are the reasons why it should be avoided.
 4. **It is worldly music** not only in its style of beats, but also in the fact that it gives attention to worldly things.This kind of music mostly focuses on the creature instead of the creator.
 5. It returns or introduces believers to the secular world.The more you listen to it the more your taste for worldly music grows.
 
-
-
 Question: why are so many CCM artists and (even churches) leaving the faith? I can boldly say most were never in the faith and I hope they turn to the faith.These are the result of gospel no longer being preached.
 
 ## Finding good christian music
 
-> \[spencer smith's quote on musicians' doctrine]
+> \[Spencer smith's quote on musicians' doctrine]
 
-<iframe width="auto" height="auto" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is the best resource I have found so far.Also by Spencer Smith.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
 
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+\---
 
-## Seeking alternatives
+What about music for entertainment? 
 
-Music is a daily part of most of us.It just has to be there.But it gets hard when the only music you could palete becomes repulsive? I quit music for like three weeks then started looking for a "fix"..or can you stay without music? It has taken a lot of trial and error but I finally found it
+It would be hard for a mature Christian or an informed young one to entertain themselves with bad doctrine or sin.Examine your ways!
 
-## Setting out
-
-As you set out to evaluate your music, start with these;
-
-1. Ask God for guidance
-2. Read the word, so that you can be discerning enough and not be drowned in heresies (in music and even preaching)
-3. Avoid listening to music that your conscience refutes
-4. Learn to distinguish worldly melodies from sacred melodies (the beats) - I'll write more on this in articles to come
-
-I urge all brethren to be sensitive to these matters.There are many false doctrines even in the church and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.
+I urge all brethren to be sensitive in matters God.There's a ton of false doctrine and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.We really really need read our Bibles.It is the only way to be safe in this wicked generation
 
 My joy is in this, God will never leave His children - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and He will never let us fall *(Jude 1:24)*.I am confident that not even this music will drown us.He will make us loose the taste for what is not true🥳  - however, let us be cautious as it can affect us  and deny us joy in Christ
+
+## What I now listen to
+
+Music is a daily part of most of us.It just has to be there.But it gets hard when the only music you could palete (due to ignorance) becomes repulsive? I quit music for like three weeks then started looking for a "fix"..or can you stay without music? It has taken a lot of trial and error but I finally found it
+
+
 
 ## Resources
 
@@ -61,10 +58,7 @@ My joy is in this, God will never leave His children - He will never let anyone 
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
 
-**What I'm currently learning on music**
+**What I'm currently learning pertaining music**
 
-1. Music manipulation
-2. Origins of music styles
-3. Differentiating between worldly and sacred melodies
-
-Join me in researching these and then we can discuss.You can HMU on twitter [here](https://twitter.com/kimutai_io)
+1. Music manipulation.
+2. Music styles and their origins.
