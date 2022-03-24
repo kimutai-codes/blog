@@ -30,7 +30,7 @@ Question: why are so many CCM artists and (even churches) leaving the faith? I c
 
 > \[Spencer smith's quote on musicians' doctrine]
 
-This is the best resource I have found so far.Also by Spencer Smith.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
+This video is the best resource I have found for this.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
