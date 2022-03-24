@@ -10,29 +10,27 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that Christian rock, rock, etc...worldly music with Christian labels.
 
-
+\[spencer smith's quote on musicians' doctrine]
 
 CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
 
-These are the reasons why it should be avoided
+**This music is dangerous**
 
-1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to worldly things.This kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, (the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting this I'm getting that).This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.If it is not edifying, is it worth it?
-2. It is deeply **affiliated with the one church movement**(This will need its own article)
-3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
-4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
-5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music, you search for a songs with stronger beat(you sorta want to go to the source) and before you know it, you're dancing to dancehall and rapping to cecular music -  this has happened to me actually
+These are the reasons why it should be avoided.
 
-Question: why are so many CCM artists and (even churches) leaving the faith?
+1. Most of its **sources are apostate churches**(who have left the faith and are dabbling with new age beliefs and even Eastern religious beliefs and practices).
+2. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.
+3. It is deeply **affiliated with the one church movement** (This will need its own article).
+4. **It is worldly music** not only in its style of beats, but also in the fact that it gives attention to worldly things.This kind of music mostly focuses on the creature instead of the creator.
+5. It returns or introduces believers to the secular world.The more you listen to it the more your taste for worldly music grows.
+
+
+
+Question: why are so many CCM artists and (even churches) leaving the faith? I can boldly say most were never in the faith and I hope they turn to the faith.These are the result of gospel no longer being preached.
 
 ## Seeking alternatives
 
-Three weeks ago, my taste for music drastically changed.I found my favorite trendy upbeat music utterly repulsive that I did not play music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue, a brother of mine he told me that there is something terribly wrong with modern Christian music.This is when I officially started being cautious of it.Curiosity hit and I started researching music and maan ain't its skeletons ugly!! I have not been listening to much music these three weeks
-
-It has not been easy though...I can live without music, but I felt there was something missing.Music for me is great when I'm up and about or working.It is handy when you do not have the bandwidth to consume any other material.I love music for its ability to keep me focused on Jesus even in my busy hours.No wonder those three weeks were a struggle!
-
-I have been searching for alternatives and I'm glad I'm building a new playlist.I thank God for the amount of information that we can access in this generation and especially for brethren who publish content on platforms such as YouTube and blogs.The resources that helped me make decisions and find good sound christian music are [Allen Parr's video on CCM](https://www.youtube.com/watch?v=wi4RADE4zL0) and [Colin Miller's video on alternatives to CCM](https://www.youtube.com/watch?v=iI1ZApuG2Io).I highly recommend these videos.
-
-I have also found that there is music with really good sound doctrine but secular beat.This type of music can be edifying.That's if you can survive the cringing due to the beat ...but if you are just fine with it, good for you...should I say you're lucky?😂.May the Holy Spirit guide  you in this as in all things
+Music is a daily part of most of us.It just has to be there.But it gets hard when the only music you could palete becomes repulsive? I quit music for like three weeks then started looking for a "fix"..or can you stay without music? It has taken a lot of trial and error but I finally found it
 
 ## Setting out
 
