@@ -40,7 +40,7 @@ It would be hard for a mature Christian or an informed young one to entertain th
 
 Let's be keen in matters God.There's a ton of false doctrine and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.We really really need read our Bibles.It is the only way to be safe in this wicked generation
 
-## What I now listen to
+## What I listen to now
 
 I recommend classical hymns.It may be weird at first, but if you love doctrine, you'll be right at home and i doubt you'll ever leave.
 
