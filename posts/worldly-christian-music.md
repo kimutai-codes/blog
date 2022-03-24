@@ -8,13 +8,13 @@ publishedDate: January 8, 2022 1:20 PM
 date: January 8, 2022 1:20 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-Bruuuh! there is a lot to music.It is a slippery slope if you are not watchful of the music you consume.Let this be a precursor of our future discussions on it
+Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that Christian rock, rock, etc...worldly music with Christian labels.
 
-CCM is the music that has recently found its way into church.These are the characteristics; It sounds like worldly music (dancehall, hiphop and rock music) - Christian lyrics with secular beats(this is most common form).Sometimes it is self exhorting music.Sometimes secular music with a little christian vocabulary.It is "danceable" and even playable in clubs.It sounds great to the flesh.This type of music sounds really good and familiar to most young believers.Most times has watered down doctrine and is soft on sin.That's what this baby christian and x-rapper fell into.Those minutes on the picture above are mostly the CCM  I listened to between just April and Nov 2021😲
 
-CCM  is not music authored recently, but rather, a style/culture of christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
 
-We Christians have varied views and understanding of certain things, music being one of them.Who am I to tell you what type of music is good for you? I do not want to play the Holy Spirit in you,as [Allen Parr](https://www.youtube.com/user/thebeatagp) likes to say.In this article I'll just give you a few pointers as to why you should be careful with CCM
+CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
+
+These are the reasons why it should be avoided
 
 1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to worldly things.This kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, (the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting this I'm getting that).This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.If it is not edifying, is it worth it?
 2. It is deeply **affiliated with the one church movement**(This will need its own article)
