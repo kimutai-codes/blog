@@ -49,7 +49,7 @@ I also have a few that I've tried and tested for myself and you I think you shou
 ## Resources for further study
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
-2. "Third Adam" - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
+2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
 3. Booklet on christian worship music; *does the way I say "I love you" matter?* - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
