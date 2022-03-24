@@ -8,7 +8,7 @@ publishedDate: January 8, 2022 1:20 PM
 date: January 8, 2022 1:20 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-(testiony of how I found it and how it was and how i came to quit it)
+(testimony of how I found it and how it was and how i came to quit it)
 
 Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is the familiar Christian rock, rap, etc...worldly music with Christian labels.
 
