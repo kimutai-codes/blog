@@ -1,6 +1,6 @@
 ---
 title: Worldly Christian Music
-description: A case on Contemporary Christian Music(CCM)
+description: A case against Contemporary Christian Music(CCM)
 tags:
   - Music
   - Faith
