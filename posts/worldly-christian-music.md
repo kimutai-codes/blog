@@ -32,25 +32,23 @@ Question: why are so many CCM artists and (even churches) leaving the faith? I c
 
 This is the best resource I have found so far.Also by Spencer Smith.I highly recommend his channel.He has covered most things that are ailing Christianity today and it will save you a ton of time.
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-\---
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What about music for entertainment? 
 
-It would be hard for a mature Christian or an informed young one to entertain themselves with bad doctrine or sin.Examine your ways!
+It would be hard for a mature Christian or an informed young one to entertain themselves with bad doctrine or sin.Good music is still entertaining.I'm finding classical hymns really entertaining..and yes, I'm 21😂😂.Those old hymns are what I find make the most sense.
 
-I urge all brethren to be sensitive in matters God.There's a ton of false doctrine and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.We really really need read our Bibles.It is the only way to be safe in this wicked generation
-
-My joy is in this, God will never leave His children - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and He will never let us fall *(Jude 1:24)*.I am confident that not even this music will drown us.He will make us loose the taste for what is not true🥳  - however, let us be cautious as it can affect us  and deny us joy in Christ
+Let's be keen in matters God.There's a ton of false doctrine and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.We really really need read our Bibles.It is the only way to be safe in this wicked generation
 
 ## What I now listen to
 
 Music is a daily part of most of us.It just has to be there.But it gets hard when the only music you could palete (due to ignorance) becomes repulsive? I quit music for like three weeks then started looking for a "fix"..or can you stay without music? It has taken a lot of trial and error but I finally found it
 
+I recommend classical hymns.It may be weird at first, but if you love doctrine, you'll be right at home and i doubt you'll ever leave.
 
+I also have a few that I've tried and tested for myself and you I think you should do the same too
 
-## Resources
+## Resources for further study
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
 2. "Third Adam" - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
@@ -58,7 +56,7 @@ Music is a daily part of most of us.It just has to be there.But it gets hard whe
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
 
-**What I'm currently learning pertaining music**
+## **What I'm currently learning pertaining music**
 
 1. Music manipulation.
 2. Music styles and their origins.
