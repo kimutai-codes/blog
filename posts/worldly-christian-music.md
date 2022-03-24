@@ -46,6 +46,8 @@ I recommend classical hymns.It may be weird at first, but if you love doctrine, 
 
 I also have a few that I've tried and tested for myself and you I think you should do the same too
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
 ## Resources for further study
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
