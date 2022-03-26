@@ -14,13 +14,13 @@ There's no such thing as Christian rap,rock,etc..this is but worldly music with 
 
 Examples of lies supporting it are; "but there's no relevant music for our generation" and "we need to reach the world with this music".Which is better though.Relevance or correctness? and Noo being worldly will not bring the world to Christianity, it will do the exact opposite instead.More Christians are becoming worldly because of such illusions. Chrisian beware
 
-When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.The flesh just loves that stuff.It is such a snare.Before long I was listening to pure rap while lying to myself  that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was always flying my radar till December though.It is so cunning and subtle(you know like who) .
+When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself  that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was flying under my radar till December though.It is so cunning and subtle(you know like who) .
 
-How did I quit? I dont know.I suddenly found it very repulsive.So weird that I went withiut music for like 3 days straight without intention.I would hit play and just turn it of barely a song later.I thank God for this so much for His Mercy and care.
+How did I quit? I can only say it has been God.I suddenly found it very repulsive.So much that I went without music for like 3 days straight.I would hit play and turn it off barely a song later.I thank God so much for His mercy and care.
 
 What triggered me to research was a comment from a brother in Christ that this music is demonic and by just searching it, his claim was more than confirmed.
 
-CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
+CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern" but it's not 😂😂.You'll know it by the type of beats.If it's using secular beats, avoid it.
 
 **This music is dangerous**
 
