@@ -18,7 +18,7 @@ Noo...being worldly will not bring the world to Christianity, it will do the exa
 
 **It is Satan's master tool for spreading heresy!**
 
-When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself  that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was flying under my radar till December though.It is so cunning and subtle(you know like who) .
+When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was flying under my radar till December though.It is so cunning and subtle(you know like who) .
 
 How did I quit? I can only say it has been God.I suddenly found it very repulsive.So much that I went without music for like 3 days straight.I would hit play and turn it off barely a song later.I thank God so much for His mercy and care.
 
