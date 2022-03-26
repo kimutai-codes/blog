@@ -10,9 +10,9 @@ thumbnail: images/uploads/5gfdvlgdbs.png
 ---
 Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is the familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
 
-There's no such thing as Christian rap,rock,etc..this is but world music with Christian vocabulary.Its just what it is.
+There's no such thing as Christian rap,rock,etc..this is but worldly music with Christian vocabulary.
 
-I also fell for lies such as "but there's no relevant music for our generation" and "we need to reach the world with this music".But one thing I'll ask you is.Which is better relevance or correctness and Noo being worldly will not bring the world to Christianity, its the opposite instead.More Christians are becoming worldly because of such illusions. Chrisian beware
+Examples of lies supporting it are; "but there's no relevant music for our generation" and "we need to reach the world with this music".But one thing I'll ask you is.Which is better relevance or correctness and Noo being worldly will not bring the world to Christianity, its the opposite instead.More Christians are becoming worldly because of such illusions. Chrisian beware
 
 When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.The flesh just loves that stuff.It is such a snare.Before long I was listening to pure rap while lying to myself  that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was always flying my radar till December though.It is so cunning and subtle(you know like who) .
 
