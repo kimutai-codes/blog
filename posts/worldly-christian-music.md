@@ -62,9 +62,11 @@ Take this playlist to get started
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-I also have a few offline East African Gospel songs.Most of these are from my childhood.
+I also have a few offline East African Gospel songs from my parents, most of them are offline tho.I'll link them as soon as I create and online playlist.
 
-## Resources for further study
+## Further study
+
+Do your homework.
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
 2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
