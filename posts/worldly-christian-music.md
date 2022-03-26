@@ -46,7 +46,7 @@ These are the reasons why it should be avoided.
 
 There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
 
-The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.Watch Adam - an eyeopening documentary they've done.
+The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eyeopening documentary they've done.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
