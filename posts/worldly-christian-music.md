@@ -44,7 +44,7 @@ These are the reasons why it should be avoided.
 
 > \[Spencer smith's quote on musicians' doctrine]
 
-There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing and you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music saying I'll know what to take.That stems from self reliance which in my opinion is already pride.
+There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
 
 The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.Watch Adam - an eyeopening documentary they've done.
 
