@@ -14,7 +14,9 @@ There's no such thing as Christian rap,rock,etc..this is but world music with Ch
 
 I also fell for lies such as "but there's no relevant music for our generation" and "we need to reach the world with this music".But one thing I'll ask you is.Which is better relevance or correctness and Noo being worldly will not bring the world to Christianity, its the opposite instead.More Christians are becoming worldly because of such illusions. Chrisian beware
 
-When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.The flesh just loves that stuff.It is such a snare..before long I was listening to some rap while saying to myself "I'll find those non abusive ones" and it did not end well.
+When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.The flesh just loves that stuff.It is such a snare..before long I was listening to some rap while saying to myself "I'll find soft ones".It did not end well and I thank God I dumped it.CCM was always flying my radar till December though.I was so fed up with it, it all sounded the same; Shallow repetitive lyrics,emotional buzz.I thank God I suddenly found it repulsive.What triggered me to research was a comment from a friend of mine that this music is demonic and just by searching it, that was evident.
+
+It is so subtle and cunning(you know like who)
 
 CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
 
