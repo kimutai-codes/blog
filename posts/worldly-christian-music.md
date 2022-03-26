@@ -46,15 +46,15 @@ These are the reasons why it should be avoided.
 
 There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
 
-The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eyeopening documentary they've done.
+The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What about music for entertainment? 
 
-It would be hard for a mature Christian or an informed young one to entertain themselves with bad doctrine or sin.Good music is still entertaining.I'm finding classical hymns really entertaining..and yes, I'm 21😂😂.Those old hymns are what I find make the most sense.
+It would be hard for a mature Christian or an informed young one to entertain themselves with sin or even consume bad doctrine.Good music is still entertaining.I'm finding classical hymns really entertaining..and yes, I'm 21😂😂.Those old hymns are what I find make the most sense.If you knew the terrible times we're in, you'll see its sense and that of avoiding any form of compromise as a Christian.
 
-Let's be keen in matters God.There's a ton of false doctrine and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.We really really need read our Bibles.It is the only way to be safe in this wicked generation
+What we need is knowledge, understanding and obedience to God's word*(the truth)* so that we dont become victims of error .**We really really need read our Bibles**.It is the only way to be safe in this wicked generation.
 
 ## What I listen to now
 
