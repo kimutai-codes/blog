@@ -58,9 +58,7 @@ What we need is knowledge, understanding and obedience to God's word*(the truth)
 
 ## What I listen to now
 
-After searching so long for classical gospel music, I found really good music.Geat music and very rich lyrics.
-
-I did not find it weird.I guess it was because i had searched for a long time and I knew it was the best option to keep listening to music. I've linked one of my favorite playlists below to get you started.Enjoy,
+Take this playlist to get started
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
