@@ -46,12 +46,12 @@ collections:
                 picker_utc: false,
             }
           - label: 'Featured Image',
-                name: 'thumbnail',
-                widget: 'object',
-                default: ' ',
-                fields:
-                  - {name: src, label: Image, widget: image}
-                  - {name: alt, label: Alt text, widget: string}
-                  - {name: title, label: Title, widget: string}
+            name: 'thumbnail',
+            widget: 'object',
+            default: ' ',
+            fields:
+              - {name: src, label: Image, widget: image}
+              - {name: alt, label: Alt text, widget: string}
+              - {name: title, label: Title, widget: string}
             
           - { label: 'Body', name: 'body', widget: 'markdown' }
