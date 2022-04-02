@@ -48,8 +48,8 @@ collections:
           - {
                 label: 'Featured Image',
                 name: 'thumbnail',
+                widget: 'object',
                 default: ' ',
-                widget: 'image',
                 fields:
                   - {name: src, label: Image, widget: image}
                   - {name: alt, label: Alt text, widget: string}
