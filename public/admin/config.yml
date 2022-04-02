@@ -45,8 +45,7 @@ collections:
                 format: 'LLL',
                 picker_utc: false,
             }
-          - {
-                label: 'Featured Image',
+          - label: 'Featured Image',
                 name: 'thumbnail',
                 widget: 'object',
                 default: ' ',
@@ -54,5 +53,5 @@ collections:
                   - {name: src, label: Image, widget: image}
                   - {name: alt, label: Alt text, widget: string}
                   - {name: title, label: Title, widget: string}
-            }
+            
           - { label: 'Body', name: 'body', widget: 'markdown' }
