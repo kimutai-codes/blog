@@ -34,11 +34,3 @@ I also have a East African Gospel songs from my parents, most of them are offlin
 I tell you they don't make gospel music like they used to.Most are after wealth and fame.Most ain't singing for Jesus.
 
 **The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
-
-## Resources
-
-1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
-2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
-3. Booklet on christian worship music; *does the way I say "I love you" matter?* - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
-4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
-5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
