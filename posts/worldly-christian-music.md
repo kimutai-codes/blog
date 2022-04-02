@@ -80,8 +80,3 @@ Do your homework.
 3. Booklet on christian worship music; *does the way I say "I love you" matter?* - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
-
-## **What I'm currently learning pertaining music**
-
-1. Music manipulation.
-2. Music styles and their origins.
