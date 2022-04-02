@@ -69,7 +69,7 @@ const Post = ({ htmlString, data, parsedDate }) => {
 			<span className='blogHeader'>
 				<h1>{data.title}</h1>
 				<span className='desc'>{data.description}</span>
-				<span className='date'>{parsedDate}</span>
+				<span className='date'>Updated: {parsedDate}</span>
 				{/* <img src={`/${data.thumbnail}`} alt='' /> */}
 			</span>
 
