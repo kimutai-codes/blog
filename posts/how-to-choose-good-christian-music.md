@@ -7,15 +7,6 @@ publishedDate: April 2, 2022 1:36 PM
 date: April 2, 2022 1:36 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-## More reasons to avoid CCM
-
-1. Major sources **sources are apostate churches** most of which practice the occult and new age beliefs
-2. **False teachings** and **heresy** are the main ingredients.
-3. **It is emotionally manipulative**.This is what makes some think it's the Holy Spirit "moving" while in reality it is music manipulation.Some preachers use this to hypnotize and others can't function without it themselves.
-4. It is deeply **affiliated with the one church movement.**
-
- It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
-
 ## Choosing good christian music
 
 > Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smit](https://youtu.be/Eq8jGpBYsKU)
@@ -45,3 +36,13 @@ I also have a East African Gospel songs from my parents, most of them are offlin
 I tell you they don't make gospel music like they used to.Most are after wealth and fame.Most ain't singing for Jesus.
 
 **The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
+
+
+
+## Resources
+
+1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
+2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
+3. Booklet on christian worship music; *does the way I say "I love you" matter?* - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
+4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
+5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
