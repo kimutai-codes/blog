@@ -37,29 +37,39 @@ It has demonic roots for the most part.
 
  It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
 
-## Finding good christian music
+## Choosing good christian music
 
-> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smith](https://youtu.be/Eq8jGpBYsKU)
+> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smit](https://youtu.be/Eq8jGpBYsKU)
 
-There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
-
-The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Third Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
+Everything I would recommend, and more, is already mentioned in this video.I highly recommend this channel too.They have covered most things that are ailing Christianity today and it will save you a ton of research time.You should also [Watch "Third Adam" ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+There are those who claim that you should know how to "chew the meat and spit out the fat".It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately (*Romans 16:17)*. I'm referring to both musicians and teachers.You can't keep listening to bad doctrine claiming you'll know what to take.Relying on yourself can really cost you down the road. I've learnt that it is better to be safe than sorry.
+
 What about music for entertainment? 
 
-It would be hard for a mature Christian or an informed young one to entertain themselves with sin or even consume bad doctrine.Good music is still entertaining.I'm finding classical hymns really entertaining..and yes, I'm 21😂😂.Those old hymns are what I find make the most sense.If you knew the terrible times we're in, you'll see its sense and that of avoiding any form of compromise as a Christian.
-
-What we need is knowledge, understanding and obedience to God's word*(the truth)* so that we dont become victims of error .**We really really need read our Bibles**.It is the only way to be safe in this wicked generation.
+It would be hard to consume let alone entertain yourself with heresy once you know this.
 
 ## What I listen to now
 
-Take this playlist to get started
+
+
+
+
+Old hymns are really so edifying. **I've never had music this good**...and yes I'm 21😂😂
+
+We should avoid any form of compromise brethren.These are perilous times *\[[verse]]*
+
+Get started with this playlist if you use Spotify.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-I also have a few offline East African Gospel songs from my parents, most of them are offline tho.I'll link them as soon as I create and online playlist.
+I also have a East African Gospel songs from my parents, most of them are offline tho.I'll link them as soon as I create and online playlist.
+
+I tell you they don't make gospel music like they used to.Most are after wealth and fame.Most ain't singing for Jesus.
+
+**The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
 
 ## Further study
 
