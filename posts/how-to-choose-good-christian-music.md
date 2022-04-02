@@ -7,8 +7,6 @@ publishedDate: April 2, 2022 1:36 PM
 date: April 2, 2022 1:36 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-## Choosing good christian music
-
 > Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smit](https://youtu.be/Eq8jGpBYsKU)
 
 Everything I would recommend, and more, is already mentioned in this video.I highly recommend this channel too.They have covered most things that are ailing Christianity today and it will save you a ton of research time.You should also [Watch "Third Adam" ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
@@ -36,8 +34,6 @@ I also have a East African Gospel songs from my parents, most of them are offlin
 I tell you they don't make gospel music like they used to.Most are after wealth and fame.Most ain't singing for Jesus.
 
 **The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
-
-
 
 ## Resources
 
