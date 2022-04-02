@@ -28,6 +28,15 @@ What triggered me to research was a comment from a brother in Christ that this m
 
 It has demonic roots for the most part.
 
+## More reasons to avoid CCM
+
+1. Major sources **sources are apostate churches** most of which practice the occult and new age beliefs
+2. **False teachings** and **heresy** are the main ingredients.
+3. **It is emotionally manipulative**.This is what makes some think it's the Holy Spirit "moving" while in reality it is music manipulation.Some preachers use this to hypnotize and others can't function without it themselves.
+4. It is deeply **affiliated with the one church movement.**
+
+ It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
+
 ## Further study
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
