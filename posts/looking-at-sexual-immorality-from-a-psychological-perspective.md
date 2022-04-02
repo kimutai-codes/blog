@@ -1,5 +1,5 @@
 ---
-title: Looking at sexual immorality from a psychological perspective
+title: The need for emotional healing
 description: My take away from Ernest Wamboye's talk on sexual purity
 tags:
   - Christ
