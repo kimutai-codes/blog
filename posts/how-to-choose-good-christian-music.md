@@ -3,11 +3,11 @@ title: How to choose good Christian music
 description: music advice
 tags:
   - ""
-publishedDate: April 2, 2022 1:36 PM
+publishedDate: January 13, 2022 1:36 PM
 date: April 2, 2022 1:36 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smit](https://youtu.be/Eq8jGpBYsKU)
+> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smith](<  https://youtu.be/Eq8jGpBYsKU>)
 
 Everything I would recommend, and more, is already mentioned in this video.I highly recommend this channel too.They have covered most things that are ailing Christianity today and it will save you a ton of research time.You should also [Watch "Third Adam" ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
 
