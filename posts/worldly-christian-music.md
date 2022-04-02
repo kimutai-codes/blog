@@ -39,7 +39,7 @@ It has demonic roots for the most part.
 
 ## Finding good christian music
 
-> Every song and every singer should be held to the same doctrinal standard as every preacher and every sermon - [Spencer Smith](https://youtu.be/Eq8jGpBYsKU)
+> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smith](https://youtu.be/Eq8jGpBYsKU)
 
 There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
 
