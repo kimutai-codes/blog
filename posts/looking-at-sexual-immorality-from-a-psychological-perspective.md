@@ -1,6 +1,6 @@
 ---
 title: The need for emotional healing
-description: My take away from Ernest Wamboye's talk on sexual purity
+description: My take away from Ernest Wamboye's talk
 tags:
   - Christ
   - Healing
