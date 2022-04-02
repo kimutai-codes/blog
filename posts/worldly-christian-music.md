@@ -37,7 +37,7 @@ It has demonic roots for the most part.
 
  It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
 
-## Further study
+## Resources
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
 2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
