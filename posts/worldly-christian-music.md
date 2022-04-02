@@ -1,64 +1,82 @@
 ---
 title: Worldly Christian Music
-description: A case on Contemporary Christian Music(CCM)
+description: A case against Contemporary Christian Music(CCM)
 tags:
   - Music
-  - Heresy
+  - Faith
 publishedDate: January 8, 2022 1:20 PM
-date: January 8, 2022 1:20 PM
+date: March 24, 2022 3:48 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-Bruuuh! there is a lot to music.It is a slippery slope if you are not watchful of the music you consume.Let this be a precursor of our future discussions on it
+Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
 
-CCM is the music that has recently found its way into church.These are the characteristics; It sounds like worldly music (dancehall, hiphop and rock music) - Christian lyrics with secular beats(this is most common form).Sometimes it is self exhorting music.Sometimes secular music with a little christian vocabulary.It is "danceable" and even playable in clubs.It sounds great to the flesh.This type of music sounds really good and familiar to most young believers.Most times has watered down doctrine and is soft on sin.That's what this baby christian and x-rapper fell into.Those minutes on the picture above are mostly the CCM  I listened to between just April and Nov 2021😲
+There's no such thing as Christian rap,rock,etc.. it is all worldly music with Christian vocabulary.
 
-CCM  is not music authored recently, but rather, a style/culture of christian music...they call it "modern"😂😂.You'll be surprised how far back it dates.
+There's a claim that it is relevant for our generation but I think it is wise to stay away from worldly things.Don't defile yourself in the name of relevance!
 
-We Christians have varied views and understanding of certain things, music being one of them.Who am I to tell you what type of music is good for you? I do not want to play the Holy Spirit in you,as [Allen Parr](https://www.youtube.com/user/thebeatagp) likes to say.In this article I'll just give you a few pointers as to why you should be careful with CCM
+Noo...being worldly will not bring the world to Christ! it will do the opposite instead.We can already see more Christians are become worldly because of such illusions.
 
-1. **It is worldly music**, not only in its style of beats but also in the fact that it gives attention to worldly things.This kind of music focuses mostly on self(me,me,me) instead of the creator.It feels good to the flesh.I does not convict of sin, it barely  paints a picture of who Jesus is as it focuses on me me me, (the Lord is going to bless me, I will be blessed this year, this is my year, I'm getting this I'm getting that).This music mostly leaves you the same spiritually if not worse.I have heard this music played in clubs and people lift their drinking vessels to them, singing in unison.If it is not edifying, is it worth it?
-2. It is deeply **affiliated with the one church movement**(This will need its own article)
-3. Most of its **sources are apostate churches**(who have left the faith and are babbling with new age beliefs and even eastern religion beliefs and practices)
-4. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.We need to be careful what we consume from men.
-5. It returns or introduces believers to the secular world.You listen to CCM, then you start being tolerant to cellular music, you search for a songs with stronger beat(you sorta want to go to the source) and before you know it, you're dancing to dancehall and rapping to cecular music -  this has happened to me actually
+**It is Satan's master tool for spreading heresy!**
 
-Question: why are so many CCM artists and (even churches) leaving the faith?
+When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself that "I'll find soft ones" and I was becoming worldly day by day.I thank God I quit it.CCM was suble however.I did not know it was even the cause.It was flying under my radar till December though.
 
-## Seeking alternatives
+How did I quit CCM? I can only say it has been God.I suddenly found it very repulsive.So much that I went without music for like 3 days.I would hit play and turn it off barely a song later.I thank God so much for His mercy and care.
 
-Three weeks ago, my taste for music drastically changed.I found my favorite trendy upbeat music utterly repulsive that I did not play music for like two days and  even deleted my liked songs to start afresh.A strange thing also happened after those two days.Out of the blue, a brother of mine he told me that there is something terribly wrong with modern Christian music.This is when I officially started being cautious of it.Curiosity hit and I started researching music and maan ain't its skeletons ugly!! I have not been listening to much music these three weeks
+What triggered me to research was a comment from a brother in Christ that this music is demonic and by just searching it, his claim was more than confirmed.
 
-It has not been easy though...I can live without music, but I felt there was something missing.Music for me is great when I'm up and about or working.It is handy when you do not have the bandwidth to consume any other material.I love music for its ability to keep me focused on Jesus even in my busy hours.No wonder those three weeks were a struggle!
+**This music is dangerous**
 
-I have been searching for alternatives and I'm glad I'm building a new playlist.I thank God for the amount of information that we can access in this generation and especially for brethren who publish content on platforms such as YouTube and blogs.The resources that helped me make decisions and find good sound christian music are [Allen Parr's video on CCM](https://www.youtube.com/watch?v=wi4RADE4zL0) and [Colin Miller's video on alternatives to CCM](https://www.youtube.com/watch?v=iI1ZApuG2Io).I highly recommend these videos.
+It has demonic roots for the most part.
 
-I have also found that there is music with really good sound doctrine but secular beat.This type of music can be edifying.That's if you can survive the cringing due to the beat ...but if you are just fine with it, good for you...should I say you're lucky?😂.May the Holy Spirit guide  you in this as in all things
+## More reasons to avoid CCM
 
-## Setting out
+1. Major sources **sources are apostate churches** most of which practice the occult and new age beliefs
+2. **False teachings** and **heresy** are the main ingredients.
+3. **It is emotionally manipulative**.This is what makes some think it's the Holy Spirit "moving" while in reality it is music manipulation.Some preachers use this to hypnotize and others can't function without it themselves.
+4. It is deeply **affiliated with the one church movement.**
 
-As you set out to evaluate your music, start with these;
+ It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
 
-1. Ask God for guidance
-2. Read the word, so that you can be discerning enough and not be drowned in heresies (in music and even preaching)
-3. Avoid listening to music that your conscience refutes
-4. Learn to distinguish worldly melodies from sacred melodies (the beats) - I'll write more on this in articles to come
+## Choosing good christian music
 
-I urge all brethren to be sensitive to these matters.There are many false doctrines even in the church and music has proved to be the biggest vessel for spreading them.What we need is knowledge and understanding of the God's word*(the truth)* so as to be able to escape false doctrine.
+> Every song and every singer should be held to the same doctrinal standards as every preacher and every sermon - [Spencer Smit](https://youtu.be/Eq8jGpBYsKU)
 
-My joy is in this, God will never leave His children - He will never let anyone take us away from His hand *(John 10:28)*.Nothing can separate us from His love *(Romans 8:38-39)* and He will never let us fall *(Jude 1:24)*.I am confident that not even this music will drown us.He will make us loose the taste for what is not true🥳  - however, let us be cautious as it can affect us  and deny us joy in Christ
+Everything I would recommend, and more, is already mentioned in this video.I highly recommend this channel too.They have covered most things that are ailing Christianity today and it will save you a ton of research time.You should also [Watch "Third Adam" ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
 
-## Resources
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+There are those who claim that you should know how to "chew the meat and spit out the fat".It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately (*Romans 16:17)*. I'm referring to both musicians and teachers.You can't keep listening to bad doctrine claiming you'll know what to take.Relying on yourself can really cost you down the road. I've learnt that it is better to be safe than sorry.
+
+What about music for entertainment? 
+
+It would be hard to consume let alone entertain yourself with heresy once you know this.
+
+## What I listen to now
+
+
+
+
+
+Old hymns are really edifying. **I've never had music this good**...and yes I'm 21😂😂
+
+We should avoid any form of compromise brethren.These are perilous times.
+
+Get started with this playlist if you use Spotify.
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1hP9Zv7tc0plGmccusElji?utm_source=generator&theme=0" width="100%" height="200" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+I also have a East African Gospel songs from my parents, most of them are offline tho.I'll link them as soon as I create and online playlist.
+
+I tell you they don't make gospel music like they used to.Most are after wealth and fame.Most ain't singing for Jesus.
+
+**The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
+
+## Further study
+
+Do your homework.
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
-2. "Third Adam" - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
+2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
 3. Booklet on christian worship music; *does the way I say "I love you" matter?* - [link](http://www.e-hope4all.info/media-eng/MusicAndWorshipWeb.pdf)
 4. Bad theology in music (1 min video) [link](https://youtu.be/VAw_TQx-7rM)
 5. faithfuldefender on CCM - [link](https://www.youtube.com/watch?v=BYX3N50Pj7w)
-
-**What I'm currently learning on music**
-
-1. Music manipulation
-2. Origins of music styles
-3. Differentiating between worldly and sacred melodies
-
-Join me in researching these and then we can discuss.You can HMU on twitter [here](https://twitter.com/kimutai_io)
