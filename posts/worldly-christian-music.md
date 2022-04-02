@@ -8,45 +8,42 @@ publishedDate: January 8, 2022 1:20 PM
 date: March 24, 2022 3:48 PM
 thumbnail: images/uploads/5gfdvlgdbs.png
 ---
-Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is the familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
+Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
 
-There's no such thing as Christian rap,rock,etc..this is but worldly music with Christian vocabulary.
+There's no such thing as Christian rap,rock,etc.. it is all worldly music with Christian vocabulary.
 
-There's a claim that it is relevant for our generation.Which is better though.Relevance or holiness.Don't defile yourself in the name of relevance!
+There's a claim that it is relevant for our generation but I think it is wise to stay away from worldly things.Don't defile yourself in the name of relevance!
 
-Noo...being worldly will not bring the world to Christianity, it will do the exact opposite.You can already see more Christians are becoming worldly because of such illusions and music is at the chief cause of that.
+Noo...being worldly will not bring the world to Christ! it will do the opposite instead.We can already see more Christians are become worldly because of such illusions.
 
 **It is Satan's master tool for spreading heresy!**
 
-When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself that "I'll find soft ones".It really stained me and I thank God I dumped it.CCM was flying under my radar till December though.It is so cunning and subtle(you know like who) .
+When I found CCM, I loved it because it sounded good, familiar to the ear and is popular.**The flesh just loves that stuff**.It is such a snare.Before long I was listening to pure rap while lying to myself that "I'll find soft ones" and I was becoming worldly day by day.I thank God I quit it.CCM was suble however.I did not know it was even the cause.It was flying under my radar till December though.
 
-How did I quit? I can only say it has been God.I suddenly found it very repulsive.So much that I went without music for like 3 days straight.I would hit play and turn it off barely a song later.I thank God so much for His mercy and care.
+How did I quit CCM? I can only say it has been God.I suddenly found it very repulsive.So much that I went without music for like 3 days.I would hit play and turn it off barely a song later.I thank God so much for His mercy and care.
 
 What triggered me to research was a comment from a brother in Christ that this music is demonic and by just searching it, his claim was more than confirmed.
-
-CCM  is not music authored recently, but rather, a style/culture of Christian music...they call it "modern" but it's not 😂😂.You'll know it by the type of beats.If it's using secular beats, avoid it.
 
 **This music is dangerous**
 
 It has demonic roots for the most part.
 
-These are the reasons why it should be avoided.
+## More reasons to avoid CCM
 
-1. Most of its **sources are apostate churches**(who have left the faith and are dabbling with new age beliefs and even Eastern religious beliefs and practices).
-2. It mostly **spreads heresy(misleading doctrine)** which is risky esp for young Christians.
-3. It is deeply **affiliated with the one church movement** (This will need its own article).
-4. **It is worldly music** not only in its style of beats, but also in the fact that it gives attention to worldly things.This kind of music mostly focuses on the creature instead of the creator.
-5. It returns or introduces believers to the secular world.The more you listen to it the more your taste for worldly music grows.
+1. Major sources **sources are apostate churches** most of which practice the occult and new age beliefs
+2. **False teachings** and **heresy** are the main ingredients.
+3. **It is emotionally manipulative**.This is what makes some think it's the Holy Spirit "moving" while in reality it is music manipulation.Some preachers use this to hypnotize and others can't function without it themselves.
+4. It is deeply **affiliated with the one church movement.**
 
- It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never in the faith and I hope they turn to the faith.These are the results of watered down gospel and unwatched doctrine.
+ It should not be a surprise that most CCM musicians are leaving the faith, and source churches going apostate😪 I can boldly say most were never even in the faith.These are the results of watered down gospel and unwatched doctrine.
 
 ## Finding good christian music
 
-> \[Spencer smith's quote on musicians' doctrine]
+> Every song and every singer should be held to the same doctrinal standard as every preacher and every sermon - [Spencer Smith](https://youtu.be/Eq8jGpBYsKU)
 
 There are those who claim that you should know how to chew the meat and spit out the fat.It is convincing but you'll realize it does not work.I'm speaking from experience here.When someone has consistent error in doctrine, you should leave them immediately. I'm referring to both musicians and teachers.You can't keep listening to bad music claiming you'll know what to take.That stems from self reliance which in my opinion is already pride.
 
-The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
+The video below is the best resource I have found for this.I have no more to add.I highly recommend this channel too.He has covered most things that are ailing Christianity today and it will save you a ton of research time.[Watch Third Adam ](https://www.youtube.com/watch?v=lnMpfoxYSFY&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe)- an eye-opening documentary they've done.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/PBoXLDGfbEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
