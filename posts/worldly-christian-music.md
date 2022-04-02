@@ -53,10 +53,6 @@ It would be hard to consume let alone entertain yourself with heresy once you kn
 
 ## What I listen to now
 
-
-
-
-
 Old hymns are really edifying. **I've never had music this good**...and yes I'm 21😂😂
 
 We should avoid any form of compromise brethren.These are perilous times.
@@ -72,8 +68,6 @@ I tell you they don't make gospel music like they used to.Most are after wealth 
 **The're a huge price for compromise**.We really really need read our Bibles and measure everything by it.If there's any deviation, tackle it according to what the word says.It is the only way to be safe in this wicked generation.
 
 ## Further study
-
-Do your homework.
 
 1. Dangers of CCM - [link](https://www.youtube.com/playlist?list=PLfiFUjkQFWzd8Nv3dSsezYviSvEHb1r2e)
 2. "Third Adam" documentary - [link](https://www.youtube.com/watch?v=pc7C0ZxDWUA&list=PLYltRndgBlAu-bP_2dLU24Ag-3SkrBHTe&index=4)
