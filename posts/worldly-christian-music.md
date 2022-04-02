@@ -57,7 +57,7 @@ It would be hard to consume let alone entertain yourself with heresy once you kn
 
 
 
-Old hymns are really so edifying. **I've never had music this good**...and yes I'm 21😂😂
+Old hymns are really edifying. **I've never had music this good**...and yes I'm 21😂😂
 
 We should avoid any form of compromise brethren.These are perilous times *\[[verse]]*
 
