@@ -45,10 +45,10 @@ collections:
                 format: 'LLL',
                 picker_utc: false,
             }
-          - label: 'Featured Image',
-            name: 'thumbnail',
-            widget: 'object',
-            default: ' ',
+          - label: 'Featured Image'
+            name: 'thumbnail'
+            widget: 'object'
+            default: ' '
             fields:
               - {name: src, label: Image, widget: image}
               - {name: alt, label: Alt text, widget: string}
