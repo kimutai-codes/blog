@@ -6,7 +6,10 @@ tags:
   - Faith
 publishedDate: January 8, 2022 1:20 PM
 date: March 24, 2022 3:48 PM
-thumbnail: images/uploads/5gfdvlgdbs.png
+thumbnail:
+  src: images/uploads/2021-spotify-time.png
+  alt: spotify minutes 2021
+  title: works ey
 ---
 Contemporary Christian Music (CCM) is the sensual music that has taken over the playlists of Churches, Christians, "Christians" and the world in the name of Gospel Music.It is that familiar Christian rock, rap, etc...worldly music with Christian badges and vocabulary.
 

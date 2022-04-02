@@ -6,7 +6,11 @@ tags:
   - Healing
 publishedDate: November 26, 2021 2:55 PM
 date: November 26, 2021 2:55 PM
-thumbnail: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
+thumbnail: 
+thumbnail:
+  src: images/uploads/254716616313_status_2b5f934bcc6041d6b9928b5e28f79128.jpg
+  alt: spotify minutes 2021
+  title: works ey
 ---
 > Sexual sin can be brought about by unhealed emotional wounds?😲
 

@@ -65,28 +65,24 @@ const Post = ({ htmlString, data, parsedDate }) => {
 				<title>{data.title}</title>
 				<meta name='description' content={data.description} />
 			</Head>
-
 			<span className='blogHeader'>
 				<h1>{data.title}</h1>
 				<span className='desc'>{data.description}</span>
 				<span className='date'>Updated: {parsedDate}</span>
 				{/* <img src={`/${data.thumbnail}`} alt='' /> */}
 			</span>
-
 			<Image
-				src={`/${data.thumbnail}`}
+				src={`/${data.thumbnail.src}`}
 				width={1080}
 				height={610}
 				alt=''
 				layout='responsive'
 				priority='true'
 			/>
-
 			<div
 				dangerouslySetInnerHTML={{ __html: htmlString }}
 				className='blogContent'
 			/>
-
 			<style jsx>{`
         .blogHeader .desc{
           text-align: center;
