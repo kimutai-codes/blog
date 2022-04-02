@@ -6,8 +6,8 @@ const Post = ({ post }) => {
 	const parsedDate = format(new Date(rawDate), 'do MMM yyyy');
 	return (
 		<a href={`/blog/${post.slug}`} className='card'>
-			<h4>{post.frontMatter.title}</h4>
-			<div className='date'>Posted on: {parsedDate}</div>
+			<p>{post.frontMatter.title}</p>
+			<span className='date'>Posted on: {parsedDate}</span>
 
 			<style jsx>
 				{`
@@ -23,6 +23,10 @@ const Post = ({ post }) => {
 					.date {
 						color: #96a0c1;
 					}
+          p{
+            font-size: large;
+            font-weight: bold;
+          }
 				`}
 			</style>
 		</a>
